@@ -69,8 +69,8 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
 
 1) Clone the repository:
 
-    git clone <YOUR_GITHUB_REPO_URL>
-    cd IFF-TASTE-DATA-MODEL   #(or your repo folder name)
+    git clone https://github.com/vatslagarg/iff-taste-data-model.git
+    cd iff-taste-data-model   #(or your repo folder name)
 
 2) Create and activate a virtual environment:
 
@@ -125,6 +125,9 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
     WHERE flavour_id = 1
     ORDER BY valid_from;
 
+8) Exit:
+   .quit
+
 # Data Quality
 
 37 automated tests cover:
@@ -134,3 +137,4 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
 - **Business logic** (3 tests) - recipe ratios sum to 1.0, yield in valid range
 - **Value validity** (5 tests) - amounts, quantities, weights are reasonable
 - **Row counts** (7 tests) - expected record counts
+
