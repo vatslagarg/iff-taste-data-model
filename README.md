@@ -72,37 +72,34 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
     git clone https://github.com/vatslagarg/iff-taste-data-model.git
     cd iff-taste-data-model   #(or your repo folder name)
 
-2) Create and activate a virtual environment:
+2) Run the Pipeline:
 
-    **macOS / Linux** 
-    python3 -m venv .venv
-    source .venv/bin/activate
+    **macOS / Linux / Git Bash (Windows)** 
+    chmod +x scripts/run_pipeline.sh
+    ./scripts/run_pipeline.sh
 
-    **Windows (PowerShell)**
-    python -m venv .venv
-    .venv\Scripts\Activate.ps1
+    **The script will automatically:**
+    1. Create a virtual environment (if needed)
+    2. Install dependencies
+    3. Load raw CSVs into DuckDB
+    4. Clean and standardize data (staging)
+    5. Apply business logic (intermediate)
+    6. Create dimensional model (marts)
+    7. Run 37 data quality tests
+  
+3) If DuckDB CLI Is Not Installed: **Optional**
+   **macOS (Homebrew)**
+   brew install duckdb
 
-3) Install Dependencies:
+   **Windows (Powershell)**
+   choco install duckdb
 
-    pip install -r requirements.txt
+4) After execution, the following file will be generated: **iff_supply_chain.duckdb**
 
-4) Run the Pipeline:
-
-    python scripts/run_pipeline.py
-
-    **The pipeline will:**
-    1. Load raw CSVs into DuckDB
-    2. Clean and standardize data (staging)
-    3. Apply business logic (intermediate)
-    4. Create dimensional model (marts)
-    5. Run 37 data quality tests
-
-5) After execution, the following file will be generated: **iff_supply_chain.duckdb**
-
-6) Query the Dimensional Data Model:
+5) Query the Dimensional Data Model:
     duckdb iff_supply_chain.duckdb
 
-7) Explore the Model:
+6) Explore the Model:
 
     **Inside DuckDB**
     SHOW ALL TABLES;
@@ -125,7 +122,7 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
     WHERE flavour_id = 1
     ORDER BY valid_from;
 
-8) Exit:
+7) Exit:
    .quit
 
 # Data Quality
@@ -137,4 +134,5 @@ The pipeline follows a **layered architecture** with 4 distinct layers, each ser
 - **Business logic** (3 tests) - recipe ratios sum to 1.0, yield in valid range
 - **Value validity** (5 tests) - amounts, quantities, weights are reasonable
 - **Row counts** (7 tests) - expected record counts
+
 
