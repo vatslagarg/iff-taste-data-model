@@ -1,0 +1,201 @@
+raw_material_id,name,generation_date,batch_number
+1,Fatty Acid,5/5/24,1
+2,Flavoring Agent,5/5/24,1
+3,Emulsifier,5/5/24,1
+4,Preservative,5/5/24,1
+5,Colorant,5/5/24,1
+6,Thickenant,5/5/24,1
+7,Solvent,5/5/24,1
+8,Texture Modulator,5/5/24,1
+9,Stabilizer,5/5/24,1
+10,Antioxidant,5/5/24,1
+11,pH Adjuster,5/5/24,1
+12,Foaming Agent,5/5/24,1
+13,Humectant,5/5/24,1
+14,Crystallization Inhibitor,5/5/24,1
+15,Detergent Builder,5/5/24,1
+16,Surfactant,5/5/24,1
+17,Skin Conditioning Agent,5/5/24,1
+18,Mouthfeel Modulator,5/5/24,1
+19,Volatile Compound,5/5/24,1
+20,Sensory Evaluator,5/5/24,1
+21,pH Adjusting Agent,5/5/24,1
+22,Anticaking Agent,5/5/24,1
+23,Anti-foaming Agent,5/5/24,1
+24,Fungicide,5/5/24,1
+25,Pest Control Agent,5/5/24,1
+26,Insect Repellent,5/5/24,1
+27,Skin Discolorant,5/5/24,1
+28,Hair Dye,5/5/24,1
+29,Textile Finisher,5/5/24,1
+30,Coating Agent,5/5/24,1
+31,Corrosion Inhibitor,5/5/24,1
+32,Biocide,5/5/24,1
+33,Sanitizing Agent,5/5/24,1
+34,Deodorizing Agent,5/5/24,1
+35,Air Freshener,5/5/24,1
+36,Odor Absorber,5/5/24,1
+37,Volatile Compound,5/5/24,1
+38,Flavor Enhancer,5/5/24,1
+39,Texture Modifier,5/5/24,1
+40,Stability Improver,5/5/24,1
+41,pH Buffering Agent,5/5/24,1
+42,Solubility Enhancer,5/5/24,1
+43,Crystallization Promoter,5/5/24,1
+44,Yield Improver,5/5/24,1
+45,Foaming Booster,5/5/24,1
+46,Humectant,5/5/24,1
+47,Moisture Retention Agent,5/5/24,1
+48,Skin Moisturizer,5/5/24,1
+49,Hair Moisturizer,5/5/24,1
+50,Textile Softener,5/5/24,1
+51,pH Adjusting Agent,5/5/24,1
+52,Anticaking Agent,5/5/24,1
+53,Anti-foaming Agent,5/5/24,1
+54,Fungicide,5/5/24,1
+55,Pest Control Agent,5/5/24,1
+56,Insect Repellent,5/5/24,1
+57,Skin Discolorant,5/5/24,1
+58,Hair Dye,5/5/24,1
+59,Textile Finisher,5/5/24,1
+60,Coating Agent,5/5/24,1
+61,Corrosion Inhibitor,5/5/24,1
+62,Biocide,5/5/24,1
+63,Sanitizing Agent,5/5/24,1
+64,Deodorizing Agent,5/5/24,1
+65,Air Freshener,5/5/24,1
+66,Odor Absorber,5/5/24,1
+67,Volatile Compound,5/5/24,1
+68,Flavor Enhancer,5/5/24,1
+69,Texture Modifier,5/5/24,1
+70,Stability Improver,5/5/24,1
+71,pH Buffering Agent,5/5/24,1
+72,Solubility Enhancer,5/5/24,1
+73,Crystallization Promoter,5/5/24,1
+74,Yield Improver,5/5/24,1
+75,Foaming Booster,5/5/24,1
+76,Humectant,5/5/24,1
+77,Moisture Retention Agent,5/5/24,1
+78,Skin Moisturizer,5/5/24,1
+79,Hair Moisturizer,5/5/24,1
+80,Textile Softener,5/5/24,1
+81,pH Adjusting Agent,5/5/24,1
+82,Anticaking Agent,5/5/24,1
+83,Anti-foaming Agent,5/5/24,1
+84,Fungicide,5/5/24,1
+85,Pest Control Agent,5/5/24,1
+86,Insect Repellent,5/5/24,1
+87,Skin Discolorant,5/5/24,1
+88,Hair Dye,5/5/24,1
+89,Textile Finisher,5/5/24,1
+90,Coating Agent,5/5/24,1
+91,Corrosion Inhibitor,5/5/24,1
+92,Biocide,5/5/24,1
+93,Sanitizing Agent,5/5/24,1
+94,Deodorizing Agent,5/5/24,1
+95,Air Freshener,5/5/24,1
+96,Odor Absorber,5/5/24,1
+97,Volatile Compound,5/5/24,1
+98,Flavor Enhancer,5/5/24,1
+99,Texture Modifier,5/5/24,1
+100,Stability Improver,5/5/24,1
+101,pH Buffering Agent,5/5/24,1
+102,Solubility Enhancer,5/5/24,1
+103,Crystallization Promoter,5/5/24,1
+104,Yield Improver,5/5/24,1
+105,Foaming Booster,5/5/24,1
+106,Humectant,5/5/24,1
+107,Moisture Retention Agent,5/5/24,1
+108,Skin Moisturizer,5/5/24,1
+109,Hair Moisturizer,5/5/24,1
+110,Textile Softener,5/5/24,1
+111,pH Adjusting Agent,5/5/24,1
+112,Anticaking Agent,5/5/24,1
+113,Anti-foaming Agent,5/5/24,1
+114,Fungicide,5/5/24,1
+115,Pest Control Agent,5/5/24,1
+116,Insect Repellent,5/5/24,1
+117,Skin Discolorant,5/5/24,1
+118,Hair Dye,5/5/24,1
+119,Textile Finisher,5/5/24,1
+120,Coating Agent,5/5/24,1
+121,Corrosion Inhibitor,5/5/24,1
+122,Biocide,5/5/24,1
+123,Sanitizing Agent,5/5/24,1
+124,Deodorizing Agent,5/5/24,1
+125,Air Freshener,5/5/24,1
+126,Odor Absorber,5/5/24,1
+127,Volatile Compound,5/5/24,1
+128,Flavor Enhancer,5/5/24,1
+129,Texture Modifier,5/5/24,1
+130,Stability Improver,5/5/24,1
+131,pH Buffering Agent,5/5/24,1
+132,Solubility Enhancer,5/5/24,1
+133,Crystallization Promoter,5/5/24,1
+134,Yield Improver,5/5/24,1
+135,Foaming Booster,5/5/24,1
+136,Humectant,5/5/24,1
+137,Moisture Retention Agent,5/5/24,1
+138,Skin Moisturizer,5/5/24,1
+139,Hair Moisturizer,5/5/24,1
+140,Textile Softener,5/5/24,1
+141,pH Adjusting Agent,5/5/24,1
+142,Anticaking Agent,5/5/24,1
+143,Anti-foaming Agent,5/5/24,1
+144,Fungicide,5/5/24,1
+145,Pest Control Agent,5/5/24,1
+146,Insect Repellent,5/5/24,1
+147,Skin Discolorant,5/5/24,1
+148,Hair Dye,5/5/24,1
+149,Textile Finisher,5/5/24,1
+150,Coating Agent,5/5/24,1
+151,Corrosion Inhibitor,5/5/24,1
+152,Biocide,5/5/24,1
+153,Sanitizing Agent,5/5/24,1
+154,Deodorizing Agent,5/5/24,1
+155,Air Freshener,5/5/24,1
+156,Odor Absorber,5/5/24,1
+157,Volatile Compound,5/5/24,1
+158,Flavor Enhancer,5/5/24,1
+159,Texture Modifier,5/5/24,1
+160,Stability Improver,5/5/24,1
+161,pH Buffering Agent,5/5/24,1
+162,Solubility Enhancer,5/5/24,1
+163,Crystallization Promoter,5/5/24,1
+164,Yield Improver,5/5/24,1
+165,Foaming Booster,5/5/24,1
+166,Humectant,5/5/24,1
+167,Moisture Retention Agent,5/5/24,1
+168,Skin Moisturizer,5/5/24,1
+169,Hair Moisturizer,5/5/24,1
+170,Textile Softener,5/5/24,1
+171,pH Adjusting Agent,5/5/24,1
+172,Anticaking Agent,5/5/24,1
+173,Anti-foaming Agent,5/5/24,1
+174,Fungicide,5/5/24,1
+175,Pest Control Agent,5/5/24,1
+176,Insect Repellent,5/5/24,1
+177,Skin Discolorant,5/5/24,1
+178,Hair Dye,5/5/24,1
+179,Textile Finisher,5/5/24,1
+180,Coating Agent,5/5/24,1
+181,Corrosion Inhibitor,5/5/24,1
+182,Biocide,5/5/24,1
+183,Sanitizing Agent,5/5/24,1
+184,Deodorizing Agent,5/5/24,1
+185,Air Freshener,5/5/24,1
+186,Odor Absorber,5/5/24,1
+187,Volatile Compound,5/5/24,1
+188,Flavor Enhancer,5/5/24,1
+189,Texture Modifier,5/5/24,1
+190,Stability Improver,5/5/24,1
+191,pH Buffering Agent,5/5/24,1
+192,Solubility Enhancer,5/5/24,1
+193,Crystallization Promoter,5/5/24,1
+194,Yield Improver,5/5/24,1
+195,Foaming Booster,5/5/24,1
+196,Humectant,5/5/24,1
+197,Moisture Retention Agent,5/5/24,1
+198,Skin Moisturizer,5/5/24,1
+199,Hair Moisturizer,5/5/24,1
+200,Textile Softener,5/5/24,1

@@ -1,0 +1,217 @@
+provider_id,name,location_city,location_country,generation_date,batch_number
+1, Global Ingredient Suppliers, London, United Kingdom,5/5/24,2
+2, Natures Bounty, Seattle, United States,5/5/24,2
+3, Organic Essence, Berlin, Germany,5/5/24,2
+4, Culinary Creations Inc., Toronto, Canada,5/5/24,2
+5, Spice Odyssey, Mumbai, India,5/5/24,2
+6, Tropical Delights, Bangkok, Thailand,5/5/24,2
+7, French Pantry, Paris, France,5/5/24,2
+8, Italian Harvest, Rome, Italy,5/5/24,2
+9, Eastern Spices, Hong Kong, China,5/5/24,2
+10, Brazilian Botanicals, Rio de Janeiro, Brazil,5/5/24,2
+11, Australian Outback Provisions, Sydney, Australia,5/5/24,2
+12, Latin American Delights, Mexico City, Mexico,5/5/24,2
+13, Arabian Nights Imports, Dubai, United Arab Emirates,5/5/24,2
+14, Mediterranean Spice Traders, Athens, Greece,5/5/24,2
+15, Nordic Ingredients, Copenhagen, Denmark,5/5/24,2
+16, Scandinavian Delights, Stockholm, Sweden,5/5/24,2
+17, South African Spice Route, Cape Town, South Africa,5/5/24,2
+18, Peruvian Botanicals, Lima, Peru,5/5/24,2
+19, New Zealand Provisions, Auckland, New Zealand,5/5/24,2
+20, Canadian Maple Producers, Montreal, Canada,5/5/24,2
+21, American Harvest, Des Moines, United States,5/5/24,2
+22, Spanish Paprika Producers, Madrid, Spain,5/5/24,2
+23, Dutch Dairy Products, Amsterdam, Netherlands,5/5/24,2
+24, Irish Whiskey Distillery, Dublin, Ireland,5/5/24,2
+25, Swiss Chocolate Makers, Zurich, Switzerland,5/5/24,2
+26, Japanese Tea Gardens, Kyoto, Japan,5/5/24,2
+27, Korean Kimchi Producers, Seoul, South Korea,5/5/24,2
+28, Vietnamese Pho Specialists, Hanoi, Vietnam,5/5/24,2
+29, Filipino Food Imports, Manila, Philippines,5/5/24,2
+30, Argentinean Meat Packers, Buenos Aires, Argentina,5/5/24,2
+31, Polish Pierogi Makers, Warsaw, Poland,5/5/24,2
+32, Czech Beer Brewers, Prague, Czech Republic,5/5/24,2
+33, Hungarian Goulash Producers, Budapest, Hungary,5/5/24,2
+34, Belgian Chocolate Conciers, Brussels, Belgium,5/5/24,2
+35, Finnish Sauna Wood Suppliers, Helsinki, Finland,5/5/24,2
+36, Icelandic Seafood Importers, Reykjavik, Iceland,5/5/24,2
+37, Norwegian Salmon Farmers, Bergen, Norway,5/5/24,2
+38, Bulgarian Rose Oil Distillers, Sofia, Bulgaria,5/5/24,2
+39, Romanian Honey Producers, Bucharest, Romania,5/5/24,2
+40, Croatian Olive Oil Importers, Zagreb, Croatia,5/5/24,2
+41, Slovakian Winemakers, Bratislava, Slovakia,5/5/24,2
+42, Turkish Delight Manufacturers, Istanbul, Turkey,5/5/24,2
+43, Egyptian Cotton Growers, Cairo, Egypt,5/5/24,2
+44, Moroccan Spice Merchants, Marrakech, Morocco,5/5/24,2
+45, Ethiopian Coffee Roasters, Addis Ababa, Ethiopia,5/5/24,2
+46, Kenyan Tea Planters, Nairobi, Kenya,5/5/24,2
+47, Tanzanian Vanilla Growers, Dodoma, Tanzania,5/5/24,2
+48, Malawian Tobacco Farmers, Lilongwe, Malawi,5/5/24,2
+49, Ugandan Cocoa Bean Producers, Kampala, Uganda,5/5/24,2
+50, South Sudanese Gum Arabic Harvesters, Juba, South Sudan,5/5/24,2
+51, Nigerian Palm Oil Processors, Abuja, Nigeria,5/5/24,2
+52, Ghanaian Cocoa Bean Farmers, Accra, Ghana,5/5/24,2
+53, Guinean Cashew Nut Producers, Conakry, Guinea,5/5/24,2
+54, Ivory Coast Coffee Growers, Yamoussoukro, Côte dIvoire,5/5/24,2
+55, Burkina Faso Shea Butter Harvesters, Ouagadougou, Burkina Faso,5/5/24,2
+56, Senegal Peanut Suppliers, Dakar, Senegal,5/5/24,2
+57, Mali Cotton Producers, Bamako, Mali,5/5/24,2
+58, Niger Salt Miners, Niamey, Niger,5/5/24,2
+59, Cameroon Pepper Producers, Yaoundé, Cameroon,5/5/24,2
+60, Central African Republic Coffee Importers, Bangui, Central African Republic,5/5/24,2
+61, Dominican Republic Cacao Bean Growers, Santo Domingo, Dominican Republic,5/5/24,2
+62, Haitian Rum Distillers, Port-au-Prince, Haiti,5/5/24,2
+63, Cuba Cigar Manufacturers, Havana, Cuba,5/5/24,2
+64, Honduras Coffee Plantations, Tegucigalpa, Honduras,5/5/24,2
+65, Costa Rica Pineapple Growers, San José, Costa Rica,5/5/24,2
+66, Panama Cacao Bean Processors, Panama City, Panama,5/5/24,2
+67, Portuguese Winemakers, Porto, Portugal,5/5/24,2
+68, Irish Whiskey Distillery, Cork, Ireland,5/5/24,2
+69, Spanish Olive Oil Producers, Seville, Spain,5/5/24,2
+70, Greek Yogurt Makers, Thessaloniki, Greece,5/5/24,2
+71, Italian Truffle Farmers, Alba, Italy,5/5/24,2
+72, French Cheesemakers, Lyon, France,5/5/24,2
+73, Belgian Waffle Specialists, Brussels, Belgium,5/5/24,2
+74, Dutch Tulip Growers, Amsterdam, Netherlands,5/5/24,2
+75, Swedish Furniture Suppliers, Stockholm, Sweden,5/5/24,2
+76, Norwegian Salmon Farms, Trondheim, Norway,5/5/24,2
+77, Danish Pastry Bakers, Copenhagen, Denmark,5/5/24,2
+78, Austrian Chocolate Conciers, Salzburg, Austria,5/5/24,2
+79, Swiss Alp Herb Suppliers, Interlaken, Switzerland,5/5/24,2
+80, Polish Honey Producers, Krakow, Poland,5/5/24,2
+81, Czech Beer Brewers, Plzen, Czech Republic,5/5/24,2
+82, Hungarian Paprika Farmers, Kalocsa, Hungary,5/5/24,2
+83, Italian Olive Oil Importers, Bologna, Italy,5/5/24,2
+84, Spanish Saffron Growers, La Mancha, Spain,5/5/24,2
+85, French Winemakers, Bordeaux, France,5/5/24,2
+86, Belgian Chocolate Makers, Ghent, Belgium,5/5/24,2
+87, Dutch Flower Bulb Producers, Keukenhof, Netherlands,5/5/24,2
+88, Scottish Whisky Distillers, Edinburgh, Scotland,5/5/24,2
+89, American Bison Ranchers, Montana, United States,5/5/24,2
+90, Texan BBQ Sauce Makers, Austin, United States,5/5/24,2
+91, Floridian Citrus Growers, Orlando, United States,5/5/24,2
+92, California Winemakers, Napa Valley, United States,5/5/24,2
+93, Hawaiian Pineapple Producers, Honolulu, United States,5/5/24,2
+94, New York City Coffee Roasters, New York City, United States,5/5/24,2
+95, Chicago Deep Dish Pizza Bakers, Chicago, United States,5/5/24,2
+96, Los Angeles Food Truck Owners, Los Angeles, United States,5/5/24,2
+97, New Orleans Cajun Spice Importers, New Orleans, United States,5/5/24,2
+98, Boston Seafood Suppliers, Boston, United States,5/5/24,2
+99, Seattle Coffee Bean Roasters, Seattle, United States,5/5/24,2
+100, Philadelphia Cheesesteak Makers, Philadelphia, United States,5/5/24,2
+101, San Francisco Craft Beer Brewers, San Francisco, United States,5/5/24,2
+102, Denver Rocky Mountain Hops Growers, Denver, United States,5/5/24,2
+103, Las Vegas Culinary Supply Distributors, Las Vegas, United States,5/5/24,2
+104, Miami Cuban Coffee Importers, Miami, United States,5/5/24,2
+105, Atlanta Peach Farmers, Atlanta, United States,5/5/24,2
+106, Dallas Tex-Mex Restaurant Suppliers, Dallas, United States,5/5/24,2
+107, Minneapolis Organic Grain Producers, Minneapolis, United States,5/5/24,2
+108, St. Louis Barbecue Sauce Makers, St. Louis, United States,5/5/24,2
+1, Global Ingredient Suppliers, London,UK,5/5/24,1
+2, Natures Bounty, Seattle,USA,5/5/24,1
+3, Organic Essence, Berlin, Germany,5/5/24,1
+4, Culinary Creations Inc., Toronto, Canada,5/5/24,1
+5, Spice Odyssey, Mumbai, India,5/5/24,1
+6, Tropical Delights, Bangkok, Thailand,5/5/24,1
+7, French Pantry, Paris, France,5/5/24,1
+8, Italian Harvest, Rome, Italy,5/5/24,1
+9, Eastern Spices, Hong Kong, China,5/5/24,1
+10, Brazilian Botanicals, Rio de Janeiro, Brazil,5/5/24,1
+11, Australian Outback Provisions, Sydney, Australia,5/5/24,1
+12, Latin American Delights, Mexico City, Mexico,5/5/24,1
+13, Arabian Nights Imports, Dubai,UAE,5/5/24,1
+14, Mediterranean Spice Traders, Athens, Greece,5/5/24,1
+15, Nordic Ingredients, Copenhagen, Denmark,5/5/24,1
+16, Scandinavian Delights, Stockholm, Sweden,5/5/24,1
+17, South African Spice Route, Cape Town, South Africa,5/5/24,1
+18, Peruvian Botanicals, Lima, Peru,5/5/24,1
+19, New Zealand Provisions, Auckland, New Zealand,5/5/24,1
+20, Canadian Maple Producers, Montreal, Canada,5/5/24,1
+21, American Harvest, Des Moines,USA,5/5/24,1
+22, Spanish Paprika Producers, Madrid, Spain,5/5/24,1
+23, Dutch Dairy Products, Amsterdam, Netherlands,5/5/24,1
+24, Irish Whiskey Distillery, Dublin, Ireland,5/5/24,1
+25, Swiss Chocolate Makers, Zurich, Switzerland,5/5/24,1
+26, Japanese Tea Gardens, Kyoto, Japan,5/5/24,1
+27, Korean Kimchi Producers, Seoul, South Korea,5/5/24,1
+28, Vietnamese Pho Specialists, Hanoi, Vietnam,5/5/24,1
+29, Filipino Food Imports, Manila, Philippines,5/5/24,1
+30, Argentinean Meat Packers, Buenos Aires, Argentina,5/5/24,1
+31, Polish Pierogi Makers, Warsaw, Poland,5/5/24,1
+32, Czech Beer Brewers, Prague, Czech Republic,5/5/24,1
+33, Hungarian Goulash Producers, Budapest, Hungary,5/5/24,1
+34, Belgian Chocolate Conciers, Brussels, Belgium,5/5/24,1
+35, Finnish Sauna Wood Suppliers, Helsinki, Finland,5/5/24,1
+36, Icelandic Seafood Importers, Reykjavik, Iceland,5/5/24,1
+37, Norwegian Salmon Farmers, Bergen, Norway,5/5/24,1
+38, Bulgarian Rose Oil Distillers, Sofia, Bulgaria,5/5/24,1
+39, Romanian Honey Producers, Bucharest, Romania,5/5/24,1
+40, Croatian Olive Oil Importers, Zagreb, Croatia,5/5/24,1
+41, Slovakian Winemakers, Bratislava, Slovakia,5/5/24,1
+42, Turkish Delight Manufacturers, Istanbul, Turkey,5/5/24,1
+43, Egyptian Cotton Growers, Cairo, Egypt,5/5/24,1
+44, Moroccan Spice Merchants, Marrakech, Morocco,5/5/24,1
+45, Ethiopian Coffee Roasters, Addis Ababa, Ethiopia,5/5/24,1
+46, Kenyan Tea Planters, Nairobi, Kenya,5/5/24,1
+47, Tanzanian Vanilla Growers, Dodoma, Tanzania,5/5/24,1
+48, Malawian Tobacco Farmers, Lilongwe, Malawi,5/5/24,1
+49, Ugandan Cocoa Bean Producers, Kampala, Uganda,5/5/24,1
+50, South Sudanese Gum Arabic Harvesters, Juba, South Sudan,5/5/24,1
+51, Nigerian Palm Oil Processors, Abuja, Nigeria,5/5/24,1
+52, Ghanaian Cocoa Bean Farmers, Accra, Ghana,5/5/24,1
+53, Guinean Cashew Nut Producers, Conakry, Guinea,5/5/24,1
+54, Ivory Coast Coffee Growers, Yamoussoukro, Côte dIvoire,5/5/24,1
+55, Burkina Faso Shea Butter Harvesters, Ouagadougou, Burkina Faso,5/5/24,1
+56, Senegal Peanut Suppliers, Dakar, Senegal,5/5/24,1
+57, Mali Cotton Producers, Bamako, Mali,5/5/24,1
+58, Niger Salt Miners, Niamey, Niger,5/5/24,1
+59, Cameroon Pepper Producers, Yaoundé, Cameroon,5/5/24,1
+60, Central African Republic Coffee Importers, Bangui, Central African Republic,5/5/24,1
+61, Dominican Republic Cacao Bean Growers, Santo Domingo, Dominican Republic,5/5/24,1
+62, Haitian Rum Distillers, Port-au-Prince, Haiti,5/5/24,1
+63, Cuba Cigar Manufacturers, Havana, Cuba,5/5/24,1
+64, Honduras Coffee Plantations, Tegucigalpa, Honduras,5/5/24,1
+65, Costa Rica Pineapple Growers, San José, Costa Rica,5/5/24,1
+66, Panama Cacao Bean Processors, Panama City, Panama,5/5/24,1
+67, Portuguese Winemakers, Porto, Portugal,5/5/24,1
+68, Irish Whiskey Distillery, Cork, Ireland,5/5/24,1
+69, Spanish Olive Oil Producers, Seville, Spain,5/5/24,1
+70, Greek Yogurt Makers, Thessaloniki, Greece,5/5/24,1
+71, Italian Truffle Farmers, Alba, Italy,5/5/24,1
+72, French Cheesemakers, Lyon, France,5/5/24,1
+73, Belgian Waffle Specialists, Brussels, Belgium,5/5/24,1
+74, Dutch Tulip Growers, Amsterdam, Netherlands,5/5/24,1
+75, Swedish Furniture Suppliers, Stockholm, Sweden,5/5/24,1
+76, Norwegian Salmon Farms, Trondheim, Norway,5/5/24,1
+77, Danish Pastry Bakers, Copenhagen, Denmark,5/5/24,1
+78, Austrian Chocolate Conciers, Salzburg, Austria,5/5/24,1
+79, Swiss Alp Herb Suppliers, Interlaken, Switzerland,5/5/24,1
+80, Polish Honey Producers, Krakow, Poland,5/5/24,1
+81, Czech Beer Brewers, Plzen, Czech Republic,5/5/24,1
+82, Hungarian Paprika Farmers, Kalocsa, Hungary,5/5/24,1
+83, Italian Olive Oil Importers, Bologna, Italy,5/5/24,1
+84, Spanish Saffron Growers, La Mancha, Spain,5/5/24,1
+85, French Winemakers, Bordeaux, France,5/5/24,1
+86, Belgian Chocolate Makers, Ghent, Belgium,5/5/24,1
+87, Dutch Flower Bulb Producers, Keukenhof, Netherlands,5/5/24,1
+88, Scottish Whisky Distillers, Edinburgh, Scotland,5/5/24,1
+89, American Bison Ranchers, Montana,USA,5/5/24,1
+90, Texan BBQ Sauce Makers, Austin,USA,5/5/24,1
+91, Floridian Citrus Growers, Orlando,USA,5/5/24,1
+92, California Winemakers, Napa Valley,USA,5/5/24,1
+93, Hawaiian Pineapple Producers, Honolulu,USA,5/5/24,1
+94, New York City Coffee Roasters, New York City,USA,5/5/24,1
+95, Chicago Deep Dish Pizza Bakers, Chicago,USA,5/5/24,1
+96, Los Angeles Food Truck Owners, Los Angeles,USA,5/5/24,1
+97, New Orleans Cajun Spice Importers, New Orleans,USA,5/5/24,1
+98, Boston Seafood Suppliers, Boston,USA,5/5/24,1
+99, Seattle Coffee Bean Roasters, Seattle,USA,5/5/24,1
+100, Philadelphia Cheesesteak Makers, Philadelphia,USA,5/5/24,1
+101, San Francisco Craft Beer Brewers, San Francisco,USA,5/5/24,1
+102, Denver Rocky Mountain Hops Growers, Denver,USA,5/5/24,1
+103, Las Vegas Culinary Supply Distributors, Las Vegas,USA,5/5/24,1
+104, Miami Cuban Coffee Importers, Miami,USA,5/5/24,1
+105, Atlanta Peach Farmers, Atlanta,USA,5/5/24,1
+106, Dallas Tex-Mex Restaurant Suppliers, Dallas,USA,5/5/24,1
+107, Minneapolis Organic Grain Producers, Minneapolis,USA,5/5/24,1
+108, St. Louis Barbecue Sauce Makers, St. Louis,USA,5/5/24,1

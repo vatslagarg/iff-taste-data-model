@@ -1,0 +1,1001 @@
+flavour_id,name,description,generation_date,batch_number
+1,Vanilla,"A sweet, creamy flavor derived from vanilla beans",5/5/24,1
+2,Chocolate,"A rich, bittersweet flavor made from cacao",5/5/24,1
+3,Strawberry,A sweet and tangy flavor made from ripe strawberries,5/5/24,1
+4,Mint,"A refreshing, cool flavor often associated with mint leaves",5/5/24,1
+5,Lemon,"A tart, citrusy flavor derived from lemon fruit",5/5/24,1
+6,Blueberry,A sweet and slightly tart flavor from blueberries,5/5/24,1
+7,Coffee,"A strong, bitter flavor derived from roasted coffee beans",5/5/24,1
+8,Caramel,"A rich, sweet flavor created from caramelized sugar",5/5/24,1
+9,Pineapple,"A tropical, sweet-tart flavor from the pineapple fruit",5/5/24,1
+10,Coconut,"A sweet, nutty flavor derived from coconut",5/5/24,1
+11,Peach,A sweet and juicy flavor from ripe peaches,5/5/24,1
+12,Raspberry,A tangy and sweet flavor from fresh raspberries,5/5/24,1
+13,Apple,A sweet and crisp flavor from apples,5/5/24,1
+14,Banana,"A sweet, smooth flavor from ripe bananas",5/5/24,1
+15,Mango,"A tropical, sweet and slightly tangy flavor from mango",5/5/24,1
+16,Cherry,A sweet and slightly tart flavor from cherries,5/5/24,1
+17,Watermelon,"A refreshing, juicy flavor from watermelon",5/5/24,1
+18,Lime,A tangy and slightly bitter flavor from limes,5/5/24,1
+19,Orange,A sweet and tangy citrus flavor from oranges,5/5/24,1
+20,Grape,A sweet flavor from grapes,5/5/24,1
+21,Hazelnut,"A nutty, slightly sweet flavor from hazelnuts",5/5/24,1
+22,Almond,"A nutty, slightly sweet flavor from almonds",5/5/24,1
+23,Pistachio,A nutty flavor with a mild sweetness from pistachios,5/5/24,1
+24,Cinnamon,"A warm, spicy-sweet flavor from cinnamon bark",5/5/24,1
+25,Nutmeg,"A warm, slightly sweet and spicy flavor from nutmeg seeds",5/5/24,1
+26,Ginger,"A spicy, aromatic flavor with a hint of sweetness from ginger root",5/5/24,1
+27,Maple,"A sweet, caramelized flavor from maple syrup",5/5/24,1
+28,Butterscotch,"A rich, sweet flavor made from butter and brown sugar",5/5/24,1
+29,Peanut Butter,"A creamy, nutty flavor from peanuts",5/5/24,1
+30,Coconut Cream,"A rich, creamy flavor made from coconut milk",5/5/24,1
+31,Lavender,"A fragrant, floral flavor from lavender flowers",5/5/24,1
+32,Rose,"A floral, slightly sweet flavor from rose petals",5/5/24,1
+33,Jasmine,"A sweet, fragrant floral flavor from jasmine flowers",5/5/24,1
+34,Lemonade,"A refreshing, tangy-sweet citrus flavor from lemons",5/5/24,1
+35,Green Tea,"A subtle, slightly bitter flavor from green tea leaves",5/5/24,1
+36,Black Tea,"A strong, slightly bitter flavor from black tea leaves",5/5/24,1
+37,Chamomile,"A mild, floral flavor from chamomile flowers",5/5/24,1
+38,Lychee,"A sweet, fragrant tropical fruit flavor",5/5/24,1
+39,Passion Fruit,A tangy and sweet tropical flavor from passion fruit,5/5/24,1
+40,Tangerine,"A sweet, citrus flavor from tangerines",5/5/24,1
+41,Apricot,A sweet and tangy flavor from apricots,5/5/24,1
+42,Kiwi,"A tangy, slightly sweet flavor from kiwis",5/5/24,1
+43,Papaya,"A tropical, sweet flavor from papaya fruit",5/5/24,1
+44,Fig,"A sweet, slightly earthy flavor from figs",5/5/24,1
+45,Plum,A sweet-tart flavor from plums,5/5/24,1
+46,Cranberry,"A tart, slightly sweet flavor from cranberries",5/5/24,1
+47,Blackberry,A sweet and slightly tart flavor from blackberries,5/5/24,1
+48,Cantaloupe,"A sweet, melony flavor from cantaloupe",5/5/24,1
+49,Honeydew,A sweet and slightly floral flavor from honeydew melon,5/5/24,1
+50,Cucumber,"A cool, crisp flavor from cucumber",5/5/24,1
+51,Carrot,"A sweet, earthy flavor from carrots",5/5/24,1
+52,Sweet Potato,"A sweet, starchy flavor from sweet potatoes",5/5/24,1
+53,Pumpkin,"A rich, sweet flavor from pumpkin",5/5/24,1
+54,Zucchini,"A mild, slightly sweet flavor from zucchini",5/5/24,1
+55,Tomato,"A juicy, slightly tangy flavor from tomatoes",5/5/24,1
+56,Beetroot,"A sweet, earthy flavor from beets",5/5/24,1
+57,Spinach,"A mild, slightly bitter flavor from spinach",5/5/24,1
+58,Broccoli,"A savory, slightly bitter flavor from broccoli",5/5/24,1
+59,Cauliflower,"A mild, slightly nutty flavor from cauliflower",5/5/24,1
+60,Asparagus,"A delicate, slightly bitter flavor from asparagus",5/5/24,1
+61,Brussels Sprouts,"A bitter, cabbage-like flavor from Brussels sprouts",5/5/24,1
+62,Leek,"A mild, onion-like flavor from leeks",5/5/24,1
+63,Onion,"A pungent, savory flavor from onions",5/5/24,1
+64,Garlic,"A strong, pungent flavor from garlic cloves",5/5/24,1
+65,Shallot,"A milder, sweeter onion flavor from shallots",5/5/24,1
+66,Chili,"A hot, spicy flavor from chili peppers",5/5/24,1
+67,Jalapeno,A medium-spicy flavor from jalapeno peppers,5/5/24,1
+68,Habanero,"A very hot, fruity flavor from habanero peppers",5/5/24,1
+69,Cayenne,"A spicy, pungent flavor from cayenne peppers",5/5/24,1
+70,Sriracha,"A spicy, garlicky sauce with a hint of sweetness",5/5/24,1
+71,Hot Sauce,"A spicy, vinegary sauce",5/5/24,1
+72,Soy Sauce,"A salty, savory flavor from fermented soybeans",5/5/24,1
+73,Worcestershire Sauce,"A tangy, savory sauce with a complex flavor",5/5/24,1
+74,Barbecue Sauce,"A smoky, sweet and tangy sauce",5/5/24,1
+75,Ranch,"A creamy, tangy dressing",5/5/24,1
+76,Caesar Dressing,"A creamy, savory dressing with a hint of garlic",5/5/24,1
+77,Thousand Island,"A creamy, tangy dressing with sweet pickle relish",5/5/24,1
+78,Blue Cheese,"A tangy, sharp flavor from blue cheese",5/5/24,1
+79,Feta,"A tangy, crumbly flavor from feta cheese",5/5/24,1
+80,Mozzarella,"A mild, milky flavor from mozzarella cheese",5/5/24,1
+81,Cheddar,"A sharp, nutty flavor from cheddar cheese",5/5/24,1
+82,Brie,"A soft, creamy flavor from brie cheese",5/5/24,1
+83,Gouda,"A rich, nutty flavor from gouda cheese",5/5/24,1
+84,Parmesan,"A hard, savory cheese with a nutty flavor",5/5/24,1
+85,Ricotta,"A creamy, mild flavor from ricotta cheese",5/5/24,1
+86,Swiss,"A mild, slightly sweet flavor from Swiss cheese",5/5/24,1
+87,Cottage Cheese,"A mild, fresh flavor from cottage cheese",5/5/24,1
+88,Cream Cheese,"A smooth, creamy, tangy flavor from cream cheese",5/5/24,1
+89,Butter,"A rich, creamy flavor from churned cream",5/5/24,1
+90,Heavy Cream,"A thick, rich cream with a slight sweetness",5/5/24,1
+91,Sour Cream,"A tangy, creamy dairy product",5/5/24,1
+92,Yogurt,"A creamy, tangy product made from fermented milk",5/5/24,1
+93,Ice Cream,"A frozen, creamy dessert with various flavors",5/5/24,1
+94,Gelato,"A denser, creamier Italian-style ice cream",5/5/24,1
+95,Sorbet,"A dairy-free, fruity frozen dessert",5/5/24,1
+96,Frozen Yogurt,"A creamy, tangy frozen dessert made from yogurt",5/5/24,1
+97,Marzipan,"A sweet, almond-flavored confection",5/5/24,1
+98,Licorice,"A sweet, slightly bitter flavor from licorice root",5/5/24,1
+99,Grape Jelly,"A sweet, jelly-like spread made from grapes",5/5/24,1
+100,Peach Jam,"A sweet, spreadable preserve made from peaches",5/5/24,1
+101,Strawberry Jam,"A sweet, spreadable preserve made from strawberries",5/5/24,1
+102,Orange Marmalade,"A sweet, tangy spread made from oranges",5/5/24,1
+103,Raspberry Jam,"A sweet, spreadable preserve made from raspberries",5/5/24,1
+104,Blackberry Jam,"A sweet, spreadable preserve made from blackberries",5/5/24,1
+105,Apple Butter,"A rich, spiced spread made from apples",5/5/24,1
+106,Honey,"A sweet, sticky product made by bees from flower nectar",5/5/24,1
+107,Molasses,"A thick, dark syrup with a bittersweet flavor",5/5/24,1
+108,Corn Syrup,"A sweet, viscous syrup made from corn starch",5/5/24,1
+109,Agave Syrup,A sweet syrup derived from the agave plant,5/5/24,1
+110,Maple Syrup,A sweet syrup made from the sap of sugar maples,5/5/24,1
+111,Golden Syrup,"A sweet, amber-colored syrup made from sugar",5/5/24,1
+112,Stevia,"A sweet, plant-based sweetener",5/5/24,1
+113,Aspartame,A low-calorie artificial sweetener,5/5/24,1
+114,Sucralose,A sugar substitute with no calories,5/5/24,1
+115,Xylitol,A sugar alcohol with a sweet taste,5/5/24,1
+116,Erythritol,A low-calorie sweetener with a mild sweetness,5/5/24,1
+117,Coconut Sugar,A sweetener made from coconut sap,5/5/24,1
+118,Brown Sugar,A sweetener with a molasses flavor,5/5/24,1
+119,White Sugar,"A refined, granulated sweetener",5/5/24,1
+120,Powdered Sugar,"A finely ground, powdered form of sugar",5/5/24,1
+121,Turbinado Sugar,A raw sugar with a light molasses flavor,5/5/24,1
+122,Honeydew Melon,A sweet and refreshing melon,5/5/24,1
+123,Gingerbread,"A sweet, spicy flavor from gingerbread cookies",5/5/24,1
+124,Molasses Cookies,"A sweet, chewy cookie with a molasses flavor",5/5/24,1
+125,Snickerdoodle,A cinnamon-sugar flavored cookie,5/5/24,1
+126,Oatmeal Cookie,A chewy cookie made with oats and raisins,5/5/24,1
+127,Peanut Brittle,"A crunchy, sweet candy made from peanuts",5/5/24,1
+128,Chocolate Chip Cookie,A classic cookie with chocolate chips,5/5/24,1
+129,Macaron,"A delicate, almond-based French cookie",5/5/24,1
+130,Shortbread,"A buttery, crumbly cookie",5/5/24,1
+131,Biscotti,A crunchy Italian almond cookie,5/5/24,1
+132,Brownie,"A rich, chocolate dessert with a fudgy texture",5/5/24,1
+133,Blondie,A chewy dessert bar made with brown sugar,5/5/24,1
+134,Cupcake,"A small, frosted cake",5/5/24,1
+135,Cake Pop,A bite-sized cake on a stick,5/5/24,1
+136,Muffin,"A small, quick bread, often sweet",5/5/24,1
+137,Cheesecake,A rich dessert with a creamy cheese filling,5/5/24,1
+138,Tiramisu,An Italian dessert made with coffee-soaked ladyfingers,5/5/24,1
+139,Pavlova,A meringue-based dessert with whipped cream and fruit,5/5/24,1
+140,Fruit Tart,A pastry crust filled with cream and topped with fruit,5/5/24,1
+141,Apple Pie,A traditional dessert made with spiced apples in a pie crust,5/5/24,1
+142,Pumpkin Pie,A dessert made with spiced pumpkin filling in a pie crust,5/5/24,1
+143,Lemon Meringue Pie,A pie made with lemon filling and a fluffy meringue topping,5/5/24,1
+144,Key Lime Pie,"A tart, creamy pie made with key lime juice",5/5/24,1
+145,Pecan Pie,"A rich, nutty pie made with pecans",5/5/24,1
+146,Chocolate Pie,A creamy pie made with chocolate filling,5/5/24,1
+147,Rhubarb Pie,A tangy pie made with rhubarb,5/5/24,1
+148,Cherry Pie,A sweet pie made with cherries,5/5/24,1
+149,Blueberry Pie,A pie made with fresh blueberries,5/5/24,1
+150,Peach Pie,A sweet pie made with fresh peaches,5/5/24,1
+151,Plum Pie,A tart pie made with plums,5/5/24,1
+152,Coconut Pie,A creamy pie made with shredded coconut,5/5/24,1
+153,Carrot Cake,A moist cake made with carrots and spices,5/5/24,1
+154,Red Velvet Cake,"A rich, moist cake with a hint of cocoa and cream cheese frosting",5/5/24,1
+155,Chocolate Cake,"A rich, moist cake made with chocolate",5/5/24,1
+156,Vanilla Cake,A light and fluffy cake made with vanilla,5/5/24,1
+157,Lemon Cake,"A tangy, light cake made with lemon",5/5/24,1
+158,Marble Cake,A cake with both vanilla and chocolate flavors,5/5/24,1
+159,Angel Food Cake,"A light, fluffy cake made with egg whites",5/5/24,1
+160,Sponge Cake,"A light, airy cake made with beaten eggs",5/5/24,1
+161,Chiffon Cake,"A light, airy cake made with vegetable oil",5/5/24,1
+162,Cheese Danish,A pastry filled with sweetened cream cheese,5/5/24,1
+163,Croissant,"A buttery, flaky pastry",5/5/24,1
+164,Pain au Chocolat,A buttery pastry filled with chocolate,5/5/24,1
+165,Cinnamon Roll,A sweet roll made with cinnamon and sugar,5/5/24,1
+166,Sticky Bun,A sweet roll with a sticky caramel glaze,5/5/24,1
+167,Bagel,"A dense, chewy bread with a hole in the center",5/5/24,1
+168,Pretzel,"A salty, twisted bread snack",5/5/24,1
+169,English Muffin,"A soft, round bread with a light texture",5/5/24,1
+170,Croissant Roll,"A buttery, rolled-up croissant pastry",5/5/24,1
+171,Brioche,"A rich, buttery French bread",5/5/24,1
+172,Ciabatta,A rustic Italian bread with a crisp crust,5/5/24,1
+173,Focaccia,A flat Italian bread flavored with olive oil,5/5/24,1
+174,Sourdough,"A tangy, yeasty bread made with wild yeast",5/5/24,1
+175,Pita,"A soft, round bread with a pocket",5/5/24,1
+176,Naan,"A soft, leavened flatbread from India",5/5/24,1
+177,Lavash,"A thin, soft flatbread from Armenia",5/5/24,1
+178,Tortilla,"A flat, round bread from Mexico",5/5/24,1
+179,Baguette,"A long, thin French loaf of bread",5/5/24,1
+180,Roll,"A small, round bread typically served with a meal",5/5/24,1
+181,Pumpernickel,"A dark, dense bread made from rye flour",5/5/24,1
+182,Whole Wheat Bread,A bread made with whole wheat flour,5/5/24,1
+183,Multigrain Bread,A bread made with a variety of grains,5/5/24,1
+184,Rye Bread,"A dense, slightly sour bread made with rye flour",5/5/24,1
+185,Parker House Roll,"A soft, buttery bread roll",5/5/24,1
+186,Challah,"A sweet, braided Jewish bread",5/5/24,1
+187,Cornbread,A savory bread made with cornmeal,5/5/24,1
+188,Zucchini Bread,"A moist, sweet bread made with zucchini",5/5/24,1
+189,Banana Bread,"A moist, sweet bread made with ripe bananas",5/5/24,1
+190,Pumpkin Bread,"A sweet, spiced bread made with pumpkin",5/5/24,1
+191,Lemon Bread,"A light, tangy bread made with lemon",5/5/24,1
+192,Apple Cinnamon Bread,A sweet bread made with apples and cinnamon,5/5/24,1
+193,Carrot Bread,"A sweet, spiced bread made with carrots",5/5/24,1
+194,Avocado Toast,A savory toast topped with mashed avocado,5/5/24,1
+195,Grilled Cheese,"A warm, gooey sandwich made with melted cheese",5/5/24,1
+196,BLT,"A sandwich made with bacon, lettuce, and tomato",5/5/24,1
+197,Club Sandwich,"A multi-layer sandwich with turkey, bacon, and vegetables",5/5/24,1
+198,Reuben,"A sandwich made with corned beef, Swiss cheese, and sauerkraut",5/5/24,1
+199,Chicken Sandwich,A sandwich made with a grilled or fried chicken breast,5/5/24,1
+200,Turkey Sandwich,A sandwich made with sliced turkey and various toppings,5/5/24,1
+201,Ham Sandwich,A sandwich made with sliced ham,5/5/24,1
+202,Veggie Sandwich,A sandwich made with various vegetables,5/5/24,1
+203,Egg Salad Sandwich,A sandwich filled with creamy egg salad,5/5/24,1
+204,Tuna Salad Sandwich,A sandwich filled with tuna salad,5/5/24,1
+205,Chicken Salad Sandwich,A sandwich filled with chicken salad,5/5/24,1
+206,Meatball Sub,A sandwich filled with meatballs and marinara sauce,5/5/24,1
+207,Philly Cheesesteak,A sandwich made with thinly sliced beef and melted cheese,5/5/24,1
+208,Pulled Pork Sandwich,A sandwich made with slow-cooked pulled pork,5/5/24,1
+209,Gyro,"A Greek sandwich made with lamb, beef, or chicken",5/5/24,1
+210,Falafel,A sandwich made with deep-fried chickpea patties,5/5/24,1
+211,Croque Monsieur,A French ham and cheese sandwich,5/5/24,1
+212,Cuban Sandwich,"A sandwich made with Cuban bread, pork, and cheese",5/5/24,1
+213,Grilled Panini,A pressed Italian sandwich with various fillings,5/5/24,1
+214,Muffuletta,A sandwich made with Italian meats and olives,5/5/24,1
+215,Sub Sandwich,A long sandwich filled with various meats and toppings,5/5/24,1
+216,Banh Mi,A Vietnamese sandwich made with pork and pickled vegetables,5/5/24,1
+217,Hot Dog,"A sausage in a bun, often topped with mustard or ketchup",5/5/24,1
+218,Cheeseburger,A beef patty sandwich with cheese,5/5/24,1
+219,Hamburger,A beef patty sandwich,5/5/24,1
+220,Chicken Burger,A sandwich made with a grilled chicken patty,5/5/24,1
+221,Veggie Burger,A plant-based patty sandwich,5/5/24,1
+222,Fish Sandwich,A sandwich made with a fried or grilled fish fillet,5/5/24,1
+223,Slider,A small sandwich typically served as an appetizer,5/5/24,1
+224,Open-Faced Sandwich,A sandwich served without the top slice of bread,5/5/24,1
+225,Crostini,A small toasted bread with toppings,5/5/24,1
+226,Bruschetta,Toasted bread topped with tomatoes and basil,5/5/24,1
+227,Garlic Bread,A bread toasted with garlic butter,5/5/24,1
+228,Breadsticks,"Long, thin breadsticks often served with dipping sauces",5/5/24,1
+229,Scones,A baked good often served with jam and cream,5/5/24,1
+230,Doughnuts,"A fried, sweet pastry with a hole in the center",5/5/24,1
+231,Cinnamon Buns,"A sweet, sticky bun made with cinnamon and sugar",5/5/24,1
+232,Churros,A fried dough pastry covered in sugar,5/5/24,1
+233,Pancakes,"A fluffy, round breakfast dish made from batter",5/5/24,1
+234,Waffles,"A crispy, grid-patterned breakfast dish",5/5/24,1
+235,French Toast,Egg-soaked bread fried in butter,5/5/24,1
+236,Crepes,Thin pancakes typically filled with sweet or savory fillings,5/5/24,1
+237,Omelette,A savory dish made from beaten eggs and fillings,5/5/24,1
+238,Quiche,"A savory pie filled with eggs, cheese, and vegetables",5/5/24,1
+239,Frittata,An Italian-style omelette with various fillings,5/5/24,1
+240,Scrambled Eggs,Eggs cooked in butter or oil until soft and fluffy,5/5/24,1
+241,Boiled Eggs,Eggs cooked in their shells in boiling water,5/5/24,1
+242,Poached Eggs,Eggs cooked without their shell in simmering water,5/5/24,1
+243,Sunny-Side Up Eggs,Eggs fried with the yolk facing up,5/5/24,1
+244,Deviled Eggs,"Boiled eggs filled with a creamy, seasoned yolk mixture",5/5/24,1
+245,Egg Benedict,Poached eggs served on an English muffin with hollandaise sauce,5/5/24,1
+246,Egg Salad,A creamy salad made with boiled eggs and mayonnaise,5/5/24,1
+247,Avocado Salad,"A salad made with avocado, often with other vegetables",5/5/24,1
+248,Caesar Salad,"A salad made with romaine lettuce, croutons, and Caesar dressing",5/5/24,1
+249,Greek Salad,"A salad made with tomatoes, cucumbers, feta, and olives",5/5/24,1
+250,Cobb Salad,"A salad with chopped vegetables, bacon, and egg",5/5/24,1
+251,Spinach Artichoke,A creamy and savory dip made from spinach and artichokes,5/5/24,1
+252,Taco,A Mexican dish made with a folded tortilla filled with meat and toppings,5/5/24,1
+253,Mushroom,"A savory, earthy flavor from mushrooms",5/5/24,1
+254,Tarragon,"An herb with a delicate, slightly licorice-like flavor",5/5/24,1
+255,Chive,"A mild, onion-like flavor from chives",5/5/24,1
+256,Basil,"A fragrant herb with a sweet, slightly peppery flavor",5/5/24,1
+257,Oregano,"A pungent herb with a savory, slightly bitter flavor",5/5/24,1
+258,Thyme,"A fragrant herb with earthy, lemony notes",5/5/24,1
+259,Rosemary,A fragrant herb with pine-like and citrusy notes,5/5/24,1
+260,Parsley,"A mild, fresh herb often used for garnish",5/5/24,1
+261,Sage,"A savory, slightly peppery herb often used in stuffing",5/5/24,1
+262,Bay Leaf,A fragrant leaf used in soups and stews for its aromatic flavor,5/5/24,1
+263,Cilantro,"A bright, citrusy herb often used in Mexican cuisine",5/5/24,1
+264,Mint Chocolate,A combination of mint flavor and rich chocolate,5/5/24,1
+265,Raisin,"A sweet, dried fruit from grapes",5/5/24,1
+266,Date,"A sweet, sticky fruit often used in desserts",5/5/24,1
+267,Cranberry Sauce,A tart and sweet sauce made from cranberries,5/5/24,1
+268,Strawberry Shortcake,"A dessert with layers of sponge cake, strawberries, and whipped cream",5/5/24,1
+269,Chili Chocolate,"A spicy, sweet combination of chili and chocolate",5/5/24,1
+270,Peppermint,"A cool, refreshing flavor from peppermint leaves",5/5/24,1
+271,Spicy Mango,A sweet and spicy tropical flavor from mango and chili,5/5/24,1
+272,Green Apple,"A tart, crisp flavor from green apples",5/5/24,1
+273,Sour Cherry,A tart cherry flavor,5/5/24,1
+274,Tart Lime,A zesty and tangy lime flavor,5/5/24,1
+275,Tropical Punch,A mix of various tropical fruit flavors,5/5/24,1
+276,Pineapple Coconut,A tropical flavor combination of pineapple and coconut,5/5/24,1
+277,Fruit Cocktail,A sweet mix of various fruit flavors,5/5/24,1
+278,Fruit Punch,A blend of citrusy and sweet fruit flavors,5/5/24,1
+279,Strawberry Banana,A sweet and fruity combination of strawberries and bananas,5/5/24,1
+280,Peach Mango,A sweet combination of peaches and mangoes,5/5/24,1
+281,Watermelon Mint,A refreshing mix of watermelon and mint,5/5/24,1
+282,Tropical Paradise,"A mix of tropical fruit flavors like mango, pineapple, and coconut",5/5/24,1
+283,Blackcurrant,A tangy and slightly sweet berry flavor,5/5/24,1
+284,Pomegranate,"A tart, sweet fruit flavor",5/5/24,1
+285,Rhubarb Strawberry,A tart and sweet combination of rhubarb and strawberries,5/5/24,1
+286,Coconut Lime,A tropical flavor pairing coconut and lime,5/5/24,1
+287,Lemon Blueberry,A tangy and sweet combination of lemon and blueberry,5/5/24,1
+288,Apple Cinnamon,"A warm, spiced flavor of apples and cinnamon",5/5/24,1
+289,Plum Cherry,A sweet-tart combination of plums and cherries,5/5/24,1
+290,Peach Cobbler,A warm dessert with peaches and biscuit topping,5/5/24,1
+291,Banoffee,"A dessert flavor combining banana, toffee, and cream",5/5/24,1
+292,Peach Melba,"A classic dessert flavor with peaches, raspberry, and cream",5/5/24,1
+293,Chocolate Mint,"A cool, refreshing mint flavor combined with rich chocolate",5/5/24,1
+294,Raspberry Lime,A tart and tangy combination of raspberry and lime,5/5/24,1
+295,Caramel Apple,A sweet flavor of caramel paired with tart apples,5/5/24,1
+296,Blueberry Lemon,A zesty and fruity combination of blueberries and lemon,5/5/24,1
+297,Honey Lavender,"A floral, sweet blend of honey and lavender",5/5/24,1
+298,Maple Bacon,A sweet and savory flavor combination of maple syrup and crispy bacon,5/5/24,1
+299,Maple Pecan,"A rich, nutty flavor of pecans paired with sweet maple",5/5/24,1
+300,Butterscotch Pudding,"A creamy, caramel-like dessert flavor",5/5/24,1
+301,Malted Milk,"A creamy, malty flavor often used in milkshakes",5/5/24,1
+302,Nutella,"A sweet, chocolate-hazelnut spread flavor",5/5/24,1
+303,Chocolate Fudge,"A rich, indulgent chocolate flavor often used in desserts",5/5/24,1
+304,Coconut Caramel,A tropical and sweet flavor combining coconut and caramel,5/5/24,1
+305,Bourbon Caramel,"A rich, smoky caramel flavor with a hint of bourbon",5/5/24,1
+306,Mocha,A blend of coffee and chocolate flavors,5/5/24,1
+307,Tiramisu Coffee,A rich coffee flavor with hints of chocolate and mascarpone,5/5/24,1
+308,Irish Coffee,"A blend of coffee, whiskey, and cream",5/5/24,1
+309,Caramel Mocha,"A sweet, chocolatey coffee flavor with caramel undertones",5/5/24,1
+310,Espresso,"A strong, rich coffee flavor",5/5/24,1
+311,Affogato,A dessert flavor with espresso poured over vanilla ice cream,5/5/24,1
+312,Chai Tea,"A spiced tea blend with cinnamon, cardamom, and ginger",5/5/24,1
+313,Matcha,"A green tea powder with a slightly grassy, earthy flavor",5/5/24,1
+314,Cinnamon Roll Latte,A coffee latte flavored with cinnamon roll spices,5/5/24,1
+315,Honeycomb,"A sweet, crispy candy made from honey and sugar",5/5/24,1
+316,Cotton Candy,"A sugary, sweet, airy treat often found at fairs",5/5/24,1
+317,Bubblegum,"A sweet, fruity flavor associated with bubblegum",5/5/24,1
+318,Marshmallow,"A sweet, fluffy flavor often used in desserts",5/5/24,1
+319,Lemon Meringue,A sweet and tangy lemon flavor topped with meringue,5/5/24,1
+320,Churro Cinnamon,A cinnamon-sugar flavor inspired by churros,5/5/24,1
+321,Sugar Cookie,"A sweet, buttery flavor often used in cookies",5/5/24,1
+322,Red Velvet,"A rich, moist cake flavor with a hint of cocoa",5/5/24,1
+323,Peanut Butter Chocolate,"A creamy, nutty flavor combined with chocolate",5/5/24,1
+324,Coconut Almond,"A nutty, tropical flavor combination of coconut and almonds",5/5/24,1
+325,Carrot Ginger,"A spiced, earthy flavor combining carrots and ginger",5/5/24,1
+326,Chocolate Raspberry,A rich chocolate flavor paired with tart raspberry,5/5/24,1
+327,Chocolate Hazelnut,A smooth chocolate flavor with nutty hazelnuts,5/5/24,1
+328,Strawberry Cheesecake,"A creamy, tangy dessert flavor with strawberries",5/5/24,1
+329,Peach Apricot,A sweet combination of peaches and apricots,5/5/24,1
+330,Apricot Jam,A sweet and tangy preserve made with apricots,5/5/24,1
+331,Maple Bacon Donut,A savory and sweet flavor combining maple syrup and bacon,5/5/24,1
+332,Carrot Cake Cheesecake,A rich dessert combining carrot cake and cheesecake,5/5/24,1
+333,Peach Iced Tea,A refreshing tea with a sweet peach flavor,5/5/24,1
+334,Lemon Iced Tea,A tangy iced tea with a hint of lemon,5/5/24,1
+335,Raspberry Lemonade,A tart and sweet flavor of raspberry and lemon,5/5/24,1
+336,Iced Mocha,A cold coffee drink flavored with chocolate,5/5/24,1
+337,Lemon Drop,"A sweet, citrusy candy flavor",5/5/24,1
+338,Pineapple Upside-Down Cake,"A sweet, caramelized pineapple cake",5/5/24,1
+339,Tart Lemon,"A tangy, tart lemon flavor",5/5/24,1
+340,Raisin Bran,"A sweet, fibrous breakfast cereal flavor",5/5/24,1
+341,Choco-Lime,A tangy lime flavor mixed with rich chocolate,5/5/24,1
+342,Cranberry Orange,"A tangy, sweet combination of cranberries and oranges",5/5/24,1
+343,Cinnamon Toast,"A warm, buttery cinnamon-sugar flavor often on toast",5/5/24,1
+344,Maraschino Cherry,"A sweet cherry flavor, often used in desserts and drinks",5/5/24,1
+345,Hot Chocolate,"A sweet, warm drink flavor made with milk and chocolate",5/5/24,1
+346,Gingerbread Spice,"A warm, spiced flavor with ginger, cinnamon, and molasses",5/5/24,1
+347,Toffee Almond,A rich toffee flavor mixed with crunchy almonds,5/5/24,1
+348,Butter Pecan,A creamy butter flavor paired with roasted pecans,5/5/24,1
+349,Pistachio Cream,"A smooth, nutty flavor from pistachios",5/5/24,1
+350,Raspberry Truffle,"A decadent, fruity chocolate truffle flavor",5/5/24,1
+351,Dark Chocolate Mint,"A rich, slightly bitter chocolate flavor paired with refreshing mint",5/5/24,1
+352,Chocolate Cherry,A rich chocolate flavor combined with tart cherries,5/5/24,1
+353,Strawberry Cheesecake Ice Cream,A creamy dessert with strawberries and cheesecake flavor,5/5/24,1
+354,Peanut Butter Cup,A combination of creamy peanut butter and chocolate,5/5/24,1
+355,Almond Joy,"A sweet, nutty flavor combined with chocolate and coconut",5/5/24,1
+356,Cinnamon Apple,A sweet and spiced combination of apples and cinnamon,5/5/24,1
+357,Smores,"A campfire dessert flavor of chocolate, marshmallow, and graham cracker",5/5/24,1
+358,Hot Buttered Rum,"A warm, spiced drink flavor with butter and rum",5/5/24,1
+359,Caramel Latte,A coffee drink with caramel syrup and milk,5/5/24,1
+360,Lemon Meringue Cupcake,"A light, tangy lemon cupcake topped with meringue",5/5/24,1
+361,Maple Cinnamon,A sweet and spicy combination of maple and cinnamon,5/5/24,1
+362,Coconut Lime Pie,"A tropical, sweet and tart pie flavor with coconut and lime",5/5/24,1
+363,Cranberry Citrus,A tangy blend of cranberries and citrus fruits,5/5/24,1
+364,Cinnamon Raisin,"A spiced, sweet bread flavor with cinnamon and raisins",5/5/24,1
+365,Chocolate Hazelnut Cream,"A creamy, rich chocolate flavor combined with hazelnuts",5/5/24,1
+366,Pineapple Coconut Cake,A tropical cake flavor with pineapple and coconut,5/5/24,1
+367,Peach Melba Tart,"A fruit tart with peaches, raspberries, and cream",5/5/24,1
+368,Key Lime Pie,"A tangy, creamy dessert with key lime flavor",5/5/24,1
+369,Black Forest,A rich chocolate and cherry flavor combination,5/5/24,1
+370,Pecan Praline,A sweet and nutty praline flavor with pecans,5/5/24,1
+371,Chocolate Mint Chip,A combination of mint and chocolate chip ice cream flavor,5/5/24,1
+372,Raspberry Swirl,A sweet and tangy raspberry flavor swirled through a creamy base,5/5/24,1
+373,Pumpkin Spice,"A spiced, autumn flavor combining cinnamon, nutmeg, and pumpkin",5/5/24,1
+374,Ginger Peach,A spicy-sweet flavor of ginger combined with peaches,5/5/24,1
+375,Chili Lime,A zesty and spicy flavor with chili and lime,5/5/24,1
+376,Maple Walnut,A sweet and nutty flavor of maple syrup paired with walnuts,5/5/24,1
+377,Lemon Raspberry,"A tart, sweet combination of lemon and raspberry",5/5/24,1
+378,Coconut White Chocolate,"A tropical, creamy flavor of coconut paired with white chocolate",5/5/24,1
+379,Toasted Marshmallow,"A warm, toasted marshmallow flavor",5/5/24,1
+380,Cinnamon Sugar,A sweet and spicy combination of cinnamon and sugar,5/5/24,1
+381,Honey Saffron,"A rich, floral flavor with hints of honey and saffron",5/5/24,1
+382,Sage Honey,"A savory, slightly herbal flavor combined with honey",5/5/24,1
+383,Balsamic Strawberry,A tangy-sweet combination of balsamic vinegar and strawberries,5/5/24,1
+384,Fig Balsamic,"A rich, sweet flavor of figs combined with tangy balsamic",5/5/24,1
+385,Lemon Honey,"A tangy, sweet combination of lemon and honey",5/5/24,1
+386,Tropical Guava,"A tropical, sweet flavor from guava",5/5/24,1
+387,Orange Blossom,"A floral, citrusy flavor from orange blossoms",5/5/24,1
+388,Rose Water,"A fragrant, floral flavor from distilled rose petals",5/5/24,1
+389,Elderflower,"A sweet, floral flavor from elderflower blossoms",5/5/24,1
+390,Blackberry Sage,A fruity-sweet flavor of blackberries paired with sage,5/5/24,1
+391,Lemon Thyme,A fragrant citrus flavor with a touch of thyme,5/5/24,1
+392,Lavender Honey,A delicate floral flavor combined with sweet honey,5/5/24,1
+393,Vanilla Bean,"A rich, creamy flavor from real vanilla beans",5/5/24,1
+394,Coconut Almond Joy,"A tropical, nutty flavor with coconut and almonds",5/5/24,1
+395,Coconut Cream Pie,A creamy dessert flavor with coconut filling,5/5/24,1
+396,Plum Caramel,A rich caramel flavor combined with sweet plums,5/5/24,1
+397,Tropical Peach,"A tropical, juicy peach flavor with a hint of other fruits",5/5/24,1
+398,Orange Caramel,A sweet and tangy flavor combination of orange and caramel,5/5/24,1
+399,Cinnamon Plum,"A spiced, sweet combination of plums and cinnamon",5/5/24,1
+400,Chocolate Espresso,"A deep, rich flavor of coffee and chocolate",5/5/24,1
+401,Lemon Blueberry Muffin,A muffin flavor with lemon and blueberry,5/5/24,1
+402,Coconut Almond Joy,"A sweet, tropical flavor with coconut and almonds",5/5/24,1
+403,Cranberry Lemon Bread,"A tangy, sweet bread flavor with cranberries and lemon",5/5/24,1
+404,Choco Banana,A sweet chocolate and banana combination,5/5/24,1
+405,Orange Mint,"A zesty, fresh combination of orange and mint",5/5/24,1
+406,Peach Mint,A sweet and fresh combination of peach and mint,5/5/24,1
+407,Cherry Limeade,A tangy-sweet combination of cherries and lime,5/5/24,1
+408,Raspberry Lush,A sweet and tart raspberry flavor,5/5/24,1
+409,Strawberry Rose,"A delicate, floral strawberry flavor",5/5/24,1
+410,Watermelon Strawberry,A sweet and refreshing watermelon and strawberry combo,5/5/24,1
+411,Ginger Lime,"A spicy, tangy combination of ginger and lime",5/5/24,1
+412,Tropical Mango Tango,"A lively, fruity blend of tropical mango",5/5/24,1
+413,Chocolate Orange,A sweet and tangy chocolate flavor paired with orange,5/5/24,1
+414,Lemon Raspberry Swirl,"A tangy, fruity swirl of lemon and raspberry",5/5/24,1
+415,Cranberry Pineapple,A sweet and tart combination of cranberry and pineapple,5/5/24,1
+416,Apple Ginger,A sweet and spicy combination of apples and ginger,5/5/24,1
+417,Minty Chocolate Chip,A refreshing mint flavor combined with chocolate chips,5/5/24,1
+418,Tart Cherry Lime,A tart combination of cherries and lime,5/5/24,1
+419,Peach Tangerine,"A fruity, sweet combination of peach and tangerine",5/5/24,1
+420,Berry Lemonade,A sweet and tart berry-filled lemonade,5/5/24,1
+421,Lemon Blueberry,"A tangy, sweet combination of lemon and blueberries",5/5/24,1
+422,Coconut Apricot,A tropical flavor combination of coconut and apricot,5/5/24,1
+423,Coconut Lime Sorbet,"A tart, creamy tropical sorbet flavor",5/5/24,1
+424,Tropical Lemon,A zesty and fresh tropical lemon flavor,5/5/24,1
+425,Caramel Banana,A rich caramel flavor combined with banana,5/5/24,1
+426,Spicy Plum,A sweet and spicy flavor from plums,5/5/24,1
+427,Peach Passion,A tropical peach flavor with a passion fruit twist,5/5/24,1
+428,Mint Chip,A fresh minty flavor with chocolate chips,5/5/24,1
+429,Mango Pineapple,A tropical combination of mango and pineapple,5/5/24,1
+430,Gingerbread Latte,"A warm, spiced coffee drink flavor",5/5/24,1
+431,Peach Mango Coconut,"A tropical flavor blend of peach, mango, and coconut",5/5/24,1
+432,Coconut Macadamia,A sweet tropical flavor with coconut and macadamia nuts,5/5/24,1
+433,Chocolate Malt,"A creamy, malty chocolate flavor",5/5/24,1
+434,Blackberry Orange,A tangy sweet combo of blackberry and orange,5/5/24,1
+435,Tangerine Vanilla,A sweet citrus flavor blended with vanilla,5/5/24,1
+436,Apple Crisp,"A warm, spiced apple dessert flavor",5/5/24,1
+437,Caramel Apple Pie,A rich apple pie flavor with caramel,5/5/24,1
+438,Strawberry Peach,"A sweet, fruity combination of strawberries and peaches",5/5/24,1
+439,Raspberry Chocolate,A tart raspberry flavor mixed with rich chocolate,5/5/24,1
+440,Sour Cherry Tart,"A sour, tangy cherry flavor often used in tarts",5/5/24,1
+441,Honey Lemon,"A sweet, tangy combination of honey and lemon",5/5/24,1
+442,Maple Walnut Cake,"A sweet, nutty cake flavor with maple syrup and walnuts",5/5/24,1
+443,Apple Cinnamon Roll,"A warm, sweet cinnamon roll flavor with apples",5/5/24,1
+444,Chocolate Raspberry Truffle,A rich chocolate flavor mixed with tart raspberry,5/5/24,1
+445,Mint Lemonade,A refreshing lemonade flavor with mint,5/5/24,1
+446,Lemon Mint,A refreshing combination of lemon and mint,5/5/24,1
+447,Honey Cinnamon,A sweet and spicy combination of honey and cinnamon,5/5/24,1
+448,Blackberry Ginger,"A tart, spicy blackberry flavor",5/5/24,1
+449,Caramel Pretzel,A sweet and salty combination of caramel and pretzels,5/5/24,1
+450,Peach Pear,A sweet combination of peaches and pears,5/5/24,1
+451,Tangerine Passion,"A sweet, fruity combination of tangerine and passionfruit",5/5/24,1
+452,Cherry Almond,A sweet and nutty combination of cherries and almonds,5/5/24,1
+453,Lemon Poppy,A tangy lemon flavor with a slight crunch of poppy seeds,5/5/24,1
+454,Coconut Lime Cheesecake,"A creamy, tangy cheesecake flavor with coconut and lime",5/5/24,1
+455,Ginger Citrus,A spicy and zesty combination of ginger and citrus fruits,5/5/24,1
+456,Orange Spice,"A warm, spicy flavor with a citrusy orange base",5/5/24,1
+457,Tropical Banana,"A sweet, tropical banana flavor",5/5/24,1
+458,Raspberry Peach,A sweet combination of raspberries and peaches,5/5/24,1
+459,Blackberry Lemonade,A tart and refreshing blackberry lemonade,5/5/24,1
+460,Peach Cinnamon,"A warm, spiced peach flavor with cinnamon",5/5/24,1
+461,Orange Blossom Honey,"A floral, sweet combination of honey and orange blossom",5/5/24,1
+462,Caramel Pecan,"A sweet, nutty caramel flavor with roasted pecans",5/5/24,1
+463,Strawberry Kiwi,A tangy-sweet combination of strawberries and kiwis,5/5/24,1
+464,Coconut Mango,A tropical flavor combination of coconut and mango,5/5/24,1
+465,Ginger Lemonade,A refreshing lemonade flavor with a spicy ginger kick,5/5/24,1
+466,Lemon Meringue Pie,A tangy lemon pie flavor with a fluffy meringue topping,5/5/24,1
+467,Coconut Chocolate Chip,A sweet coconut flavor with chocolate chips,5/5/24,1
+468,Apple Maple,A warm apple flavor with sweet maple syrup,5/5/24,1
+469,Cinnamon Hazelnut,"A warm, spiced flavor of cinnamon and hazelnuts",5/5/24,1
+470,Tropical Coconut,"A creamy, tropical coconut flavor",5/5/24,1
+471,Orange Creme,"A smooth, creamy orange flavor",5/5/24,1
+472,Ginger Peach Tea,A spiced tea blend of ginger and peach,5/5/24,1
+473,Berry Mint,A refreshing combination of berries and mint,5/5/24,1
+474,Lemon Raspberry Swirl,A tangy lemon flavor with a swirl of raspberry,5/5/24,1
+475,Peach Lemonade,"A sweet, tangy lemonade flavor with peaches",5/5/24,1
+476,Passionfruit Orange,A tropical flavor of passionfruit and orange,5/5/24,1
+477,Apple Pie,"A warm, spiced apple dessert flavor",5/5/24,1
+478,Tart Lime Pie,"A tangy, creamy lime pie flavor",5/5/24,1
+479,Coconut Cream,"A smooth, creamy coconut flavor",5/5/24,1
+480,Chocolate Cherry Swirl,A rich chocolate flavor swirled with tart cherry,5/5/24,1
+481,Maple Cinnamon Swirl,"A sweet, spicy flavor combination of maple syrup and cinnamon",5/5/24,1
+482,Peach Apricot Jam,A sweet and tangy jam flavor made from peaches and apricots,5/5/24,1
+483,Coconut Pineapple,A tropical flavor combining coconut and pineapple,5/5/24,1
+484,Lemon Pistachio,A zesty lemon flavor with a nutty pistachio base,5/5/24,1
+485,Strawberry Kiwi Twist,A sweet and tart combination of strawberries and kiwi,5/5/24,1
+486,Cherry Pomegranate,A sweet and tart combination of cherries and pomegranates,5/5/24,1
+487,Mango Lime,"A zesty, tropical combination of mango and lime",5/5/24,1
+488,Almond Joyful,"A nutty, chocolatey flavor with almonds and coconut",5/5/24,1
+489,Chocolate Mint Swirl,A cool mint flavor with a rich chocolate swirl,5/5/24,1
+490,Cinnamon Peach,A warm peach flavor with a hint of cinnamon,5/5/24,1
+491,Tropical Medley,A refreshing mix of tropical fruits,5/5/24,1
+492,Citrus Splash,"A fresh, zesty combination of various citrus fruits",5/5/24,1
+493,Apple Cranberry,A tart and sweet combination of apples and cranberries,5/5/24,1
+494,Raspberry Peach Swirl,"A sweet, fruity combination of raspberries and peaches",5/5/24,1
+495,Banana Cinnamon,A sweet and spiced combination of bananas and cinnamon,5/5/24,1
+496,Tropical Punch,"A sweet, fruity mix of tropical fruit flavors",5/5/24,1
+497,Caramel Fudge,A rich caramel flavor mixed with fudgy sweetness,5/5/24,1
+498,Mango Coconut,A sweet tropical flavor blend of mango and coconut,5/5/24,1
+499,Lime Sorbet,"A tangy, refreshing lime-flavored sorbet",5/5/24,1
+500,Strawberry Peach Pie,A sweet dessert flavor with strawberries and peaches,5/5/24,1
+1,Vanilla,"This is sugary, velvety flavor derived from vanilla beans",5/5/24,2
+2,Chocolate,"A rich, bittersweet flavor made from cacao",5/5/24,2
+3,Strawberry,This is sugary and zesty flavor made from ripe strawberries,5/5/24,2
+4,Mint,"A refreshing, cool flavor often associated with mint leaves",5/5/24,2
+5,Lemon,"A tart, citrusy flavor derived from lemon fruit",5/5/24,2
+6,Blueberry,A sweet and slightly tart flavor from blueberries,5/5/24,2
+7,Coffee,"A strong, bitter flavor derived from roasted coffee beans",5/5/24,2
+8,Caramel,"A rich, sweet flavor created from caramelized sugar",5/5/24,2
+9,Pineapple,"A tropical, sweet-tart flavor from the pineapple fruit",5/5/24,2
+10,Coconut,"This is sugary, earthy flavor derived from coconut",5/5/24,2
+11,Peach,A sweet and juicy flavor from ripe peaches,5/5/24,2
+12,Raspberry,This is zesty and sugary flavor from fresh raspberries,5/5/24,2
+13,Apple,A sweet and crisp flavor from apples,5/5/24,2
+14,Banana,"A sweet, smooth flavor from ripe bananas",5/5/24,2
+15,Mango,"A tropical, sweet and slightly tangy flavor from mango",5/5/24,2
+16,Cherry,This is sugary and mildly sharp flavor from cherries,5/5/24,2
+17,Watermelon,"A refreshing, juicy flavor from watermelon",5/5/24,2
+18,Lime,A tangy and slightly bitter flavor from limes,5/5/24,2
+19,Orange,This is sugary and zesty citrus flavor from oranges,5/5/24,2
+20,Grape,A sweet flavor from grapes,5/5/24,2
+21,Hazelnut,"A nutty, slightly sweet flavor from hazelnuts",5/5/24,2
+22,Almond,"A nutty, slightly sweet flavor from almonds",5/5/24,2
+23,Pistachio,This is earthy flavor with a mild sweetness from pistachios,5/5/24,2
+24,Cinnamon,"A warm, spicy-sweet flavor from cinnamon bark",5/5/24,2
+25,Nutmeg,"A warm, slightly sweet and spicy flavor from nutmeg seeds",5/5/24,2
+26,Ginger,"A spicy, aromatic flavor with a hint of sweetness from ginger root",5/5/24,2
+27,Maple,"A sweet, caramelized flavor from maple syrup",5/5/24,2
+28,Butterscotch,"A rich, sweet flavor made from butter and brown sugar",5/5/24,2
+29,Peanut Butter,"A creamy, nutty flavor from peanuts",5/5/24,2
+30,Coconut Cream,"A rich, creamy flavor made from coconut milk",5/5/24,2
+31,Lavender,"This is aromatic, floral flavor from lavender flowers",5/5/24,2
+32,Rose,"A floral, slightly sweet flavor from rose petals",5/5/24,2
+33,Jasmine,"A sweet, fragrant floral flavor from jasmine flowers",5/5/24,2
+34,Lemonade,"This is invigorating, zesty-sugary citrus flavor from lemons",5/5/24,2
+35,Green Tea,"A subtle, slightly bitter flavor from green tea leaves",5/5/24,2
+36,Black Tea,"A strong, slightly bitter flavor from black tea leaves",5/5/24,2
+37,Chamomile,"A mild, floral flavor from chamomile flowers",5/5/24,2
+38,Lychee,"A sweet, fragrant tropical fruit flavor",5/5/24,2
+39,Passion Fruit,A tangy and sweet tropical flavor from passion fruit,5/5/24,2
+40,Tangerine,"This is sugary, citrus flavor from tangerines",5/5/24,2
+41,Apricot,A sweet and tangy flavor from apricots,5/5/24,2
+42,Kiwi,"A tangy, slightly sweet flavor from kiwis",5/5/24,2
+43,Papaya,"A tropical, sweet flavor from papaya fruit",5/5/24,2
+44,Fig,"A sweet, slightly earthy flavor from figs",5/5/24,2
+45,Plum,A sweet-tart flavor from plums,5/5/24,2
+46,Cranberry,"A tart, slightly sweet flavor from cranberries",5/5/24,2
+47,Blackberry,This is sugary and mildly sharp flavor from blackberries,5/5/24,2
+48,Cantaloupe,"A sweet, melony flavor from cantaloupe",5/5/24,2
+49,Honeydew,A sweet and slightly floral flavor from honeydew melon,5/5/24,2
+50,Cucumber,"A cool, crisp flavor from cucumber",5/5/24,2
+51,Carrot,"A sweet, earthy flavor from carrots",5/5/24,2
+52,Sweet Potato,"A sweet, starchy flavor from sweet potatoes",5/5/24,2
+53,Pumpkin,"A rich, sweet flavor from pumpkin",5/5/24,2
+54,Zucchini,"A mild, slightly sweet flavor from zucchini",5/5/24,2
+55,Tomato,"A juicy, slightly tangy flavor from tomatoes",5/5/24,2
+56,Beetroot,"This is sugary, earthy flavor from beets",5/5/24,2
+57,Spinach,"A mild, slightly bitter flavor from spinach",5/5/24,2
+58,Broccoli,"A savory, slightly bitter flavor from broccoli",5/5/24,2
+59,Cauliflower,"A mild, slightly nutty flavor from cauliflower",5/5/24,2
+60,Asparagus,"A delicate, slightly bitter flavor from asparagus",5/5/24,2
+61,Brussels Sprouts,"A bitter, cabbage-like flavor from Brussels sprouts",5/5/24,2
+62,Leek,"A mild, onion-like flavor from leeks",5/5/24,2
+63,Onion,"A pungent, savory flavor from onions",5/5/24,2
+64,Garlic,"This is robust, pungent flavor from garlic cloves",5/5/24,2
+65,Shallot,"A milder, sweeter onion flavor from shallots",5/5/24,2
+66,Chili,"A hot, spicy flavor from chili peppers",5/5/24,2
+67,Jalapeno,A medium-spicy flavor from jalapeno peppers,5/5/24,2
+68,Habanero,"A very hot, fruity flavor from habanero peppers",5/5/24,2
+69,Cayenne,"This is piquant, pungent flavor from cayenne peppers",5/5/24,2
+70,Sriracha,"This is piquant, garlicky sauce with a hint of sweetness",5/5/24,2
+71,Hot Sauce,"This is piquant, vinegary sauce",5/5/24,2
+72,Soy Sauce,"A salty, savory flavor from fermented soybeans",5/5/24,2
+73,Worcestershire Sauce,"This is zesty, savory sauce with a complex flavor",5/5/24,2
+74,Barbecue Sauce,"This is smoky, sugary and zesty sauce",5/5/24,2
+75,Ranch,"A creamy, tangy dressing",5/5/24,2
+76,Caesar Dressing,"This is velvety, savory dressing with a hint of garlic",5/5/24,2
+77,Thousand Island,"This is velvety, zesty dressing with sugary pickle relish",5/5/24,2
+78,Blue Cheese,"This is zesty, sharp flavor from blue cheese",5/5/24,2
+79,Feta,"This is zesty, crumbly flavor from feta cheese",5/5/24,2
+80,Mozzarella,"This is mild, milky flavor from mozzarella cheese",5/5/24,2
+81,Cheddar,"A sharp, nutty flavor from cheddar cheese",5/5/24,2
+82,Brie,"A soft, creamy flavor from brie cheese",5/5/24,2
+83,Gouda,"This is luxurious, earthy flavor from gouda cheese",5/5/24,2
+84,Parmesan,"A hard, savory cheese with a nutty flavor",5/5/24,2
+85,Ricotta,"This is velvety, mild flavor from ricotta cheese",5/5/24,2
+86,Swiss,"A mild, slightly sweet flavor from Swiss cheese",5/5/24,2
+87,Cottage Cheese,"This is mild, fresh flavor from cottage cheese",5/5/24,2
+88,Cream Cheese,"A smooth, creamy, tangy flavor from cream cheese",5/5/24,2
+89,Butter,"A rich, creamy flavor from churned cream",5/5/24,2
+90,Heavy Cream,"A thick, rich cream with a slight sweetness",5/5/24,2
+91,Sour Cream,"This is zesty, velvety dairy product",5/5/24,2
+92,Yogurt,"A creamy, tangy product made from fermented milk",5/5/24,2
+93,Ice Cream,"A frozen, creamy dessert with various flavors",5/5/24,2
+94,Gelato,"This is denser, creamier Italian-style ice cream",5/5/24,2
+95,Sorbet,"A dairy-free, fruity frozen dessert",5/5/24,2
+96,Frozen Yogurt,"A creamy, tangy frozen dessert made from yogurt",5/5/24,2
+97,Marzipan,"A sweet, almond-flavored confection",5/5/24,2
+98,Licorice,"A sweet, slightly bitter flavor from licorice root",5/5/24,2
+99,Grape Jelly,"A sweet, jelly-like spread made from grapes",5/5/24,2
+100,Peach Jam,"A sweet, spreadable preserve made from peaches",5/5/24,2
+101,Strawberry Jam,"A sweet, spreadable preserve made from strawberries",5/5/24,2
+102,Orange Marmalade,"This is sugary, zesty spread made from oranges",5/5/24,2
+103,Raspberry Jam,"A sweet, spreadable preserve made from raspberries",5/5/24,2
+104,Blackberry Jam,"A sweet, spreadable preserve made from blackberries",5/5/24,2
+105,Apple Butter,"This is luxurious, spiced spread made from apples",5/5/24,2
+106,Honey,"A sweet, sticky product made by bees from flower nectar",5/5/24,2
+107,Molasses,"A thick, dark syrup with a bittersweet flavor",5/5/24,2
+108,Corn Syrup,"A sweet, viscous syrup made from corn starch",5/5/24,2
+109,Agave Syrup,A sweet syrup derived from the agave plant,5/5/24,2
+110,Maple Syrup,A sweet syrup made from the sap of sugar maples,5/5/24,2
+111,Golden Syrup,"A sweet, amber-colored syrup made from sugar",5/5/24,2
+112,Stevia,"A sweet, plant-based sweetener",5/5/24,2
+113,Aspartame,A low-calorie artificial sweetener,5/5/24,2
+114,Sucralose,A sugar substitute with no calories,5/5/24,2
+115,Xylitol,A sugar alcohol with a sweet taste,5/5/24,2
+116,Erythritol,A low-calorie sweetener with a mild sweetness,5/5/24,2
+117,Coconut Sugar,A sweetener made from coconut sap,5/5/24,2
+118,Brown Sugar,A sweetener with a molasses flavor,5/5/24,2
+119,White Sugar,"A refined, granulated sweetener",5/5/24,2
+120,Powdered Sugar,"A finely ground, powdered form of sugar",5/5/24,2
+121,Turbinado Sugar,A raw sugar with a light molasses flavor,5/5/24,2
+122,Honeydew Melon,A sweet and refreshing melon,5/5/24,2
+123,Gingerbread,"A sweet, spicy flavor from gingerbread cookies",5/5/24,2
+124,Molasses Cookies,"A sweet, chewy cookie with a molasses flavor",5/5/24,2
+125,Snickerdoodle,This is cinnamon-sugar flavored cookie,5/5/24,2
+126,Oatmeal Cookie,A chewy cookie made with oats and raisins,5/5/24,2
+127,Peanut Brittle,"A crunchy, sweet candy made from peanuts",5/5/24,2
+128,Chocolate Chip Cookie,A classic cookie with chocolate chips,5/5/24,2
+129,Macaron,"A delicate, almond-based French cookie",5/5/24,2
+130,Shortbread,"A buttery, crumbly cookie",5/5/24,2
+131,Biscotti,A crunchy Italian almond cookie,5/5/24,2
+132,Brownie,"This is luxurious, chocolate dessert with a fudgy texture",5/5/24,2
+133,Blondie,A chewy dessert bar made with brown sugar,5/5/24,2
+134,Cupcake,"A small, frosted cake",5/5/24,2
+135,Cake Pop,A bite-sized cake on a stick,5/5/24,2
+136,Muffin,"A small, quick bread, often sweet",5/5/24,2
+137,Cheesecake,A rich dessert with a creamy cheese filling,5/5/24,2
+138,Tiramisu,An Italian dessert made with coffee-soaked ladyfingers,5/5/24,2
+139,Pavlova,A meringue-based dessert with whipped cream and fruit,5/5/24,2
+140,Fruit Tart,A pastry crust filled with cream and topped with fruit,5/5/24,2
+141,Apple Pie,A traditional dessert made with spiced apples in a pie crust,5/5/24,2
+142,Pumpkin Pie,A dessert made with spiced pumpkin filling in a pie crust,5/5/24,2
+143,Lemon Meringue Pie,A pie made with lemon filling and a fluffy meringue topping,5/5/24,2
+144,Key Lime Pie,"A tart, creamy pie made with key lime juice",5/5/24,2
+145,Pecan Pie,"A rich, nutty pie made with pecans",5/5/24,2
+146,Chocolate Pie,A creamy pie made with chocolate filling,5/5/24,2
+147,Rhubarb Pie,A tangy pie made with rhubarb,5/5/24,2
+148,Cherry Pie,A sweet pie made with cherries,5/5/24,2
+149,Blueberry Pie,This is pie made with fresh blueberries,5/5/24,2
+150,Peach Pie,A sweet pie made with fresh peaches,5/5/24,2
+151,Plum Pie,A tart pie made with plums,5/5/24,2
+152,Coconut Pie,A creamy pie made with shredded coconut,5/5/24,2
+153,Carrot Cake,A moist cake made with carrots and spices,5/5/24,2
+154,Red Velvet Cake,"A rich, moist cake with a hint of cocoa and cream cheese frosting",5/5/24,2
+155,Chocolate Cake,"This is luxurious, moist cake made with chocolate",5/5/24,2
+156,Vanilla Cake,This is light and fluffy cake made with vanilla,5/5/24,2
+157,Lemon Cake,"A tangy, light cake made with lemon",5/5/24,2
+158,Marble Cake,A cake with both vanilla and chocolate flavors,5/5/24,2
+159,Angel Food Cake,"A light, fluffy cake made with egg whites",5/5/24,2
+160,Sponge Cake,"A light, airy cake made with beaten eggs",5/5/24,2
+161,Chiffon Cake,"A light, airy cake made with vegetable oil",5/5/24,2
+162,Cheese Danish,A pastry filled with sweetened cream cheese,5/5/24,2
+163,Croissant,"A buttery, flaky pastry",5/5/24,2
+164,Pain au Chocolat,A buttery pastry filled with chocolate,5/5/24,2
+165,Cinnamon Roll,A sweet roll made with cinnamon and sugar,5/5/24,2
+166,Sticky Bun,A sweet roll with a sticky caramel glaze,5/5/24,2
+167,Bagel,"A dense, chewy bread with a hole in the center",5/5/24,2
+168,Pretzel,"A salty, twisted bread snack",5/5/24,2
+169,English Muffin,"A soft, round bread with a light texture",5/5/24,2
+170,Croissant Roll,"A buttery, rolled-up croissant pastry",5/5/24,2
+171,Brioche,"A rich, buttery French bread",5/5/24,2
+172,Ciabatta,A rustic Italian bread with a crisp crust,5/5/24,2
+173,Focaccia,This is flat Italian bread flavored with olive oil,5/5/24,2
+174,Sourdough,"This is zesty, yeasty bread made with wild yeast",5/5/24,2
+175,Pita,"A soft, round bread with a pocket",5/5/24,2
+176,Naan,"A soft, leavened flatbread from India",5/5/24,2
+177,Lavash,"A thin, soft flatbread from Armenia",5/5/24,2
+178,Tortilla,"A flat, round bread from Mexico",5/5/24,2
+179,Baguette,"A long, thin French loaf of bread",5/5/24,2
+180,Roll,"A small, round bread typically served with a meal",5/5/24,2
+181,Pumpernickel,"This is dark, dense bread made from rye flour",5/5/24,2
+182,Whole Wheat Bread,A bread made with whole wheat flour,5/5/24,2
+183,Multigrain Bread,This is bread made with a variety of grains,5/5/24,2
+184,Rye Bread,"A dense, slightly sour bread made with rye flour",5/5/24,2
+185,Parker House Roll,"A soft, buttery bread roll",5/5/24,2
+186,Challah,"This is sugary, braided Jewish bread",5/5/24,2
+187,Cornbread,A savory bread made with cornmeal,5/5/24,2
+188,Zucchini Bread,"A moist, sweet bread made with zucchini",5/5/24,2
+189,Banana Bread,"A moist, sweet bread made with ripe bananas",5/5/24,2
+190,Pumpkin Bread,"A sweet, spiced bread made with pumpkin",5/5/24,2
+191,Lemon Bread,"A light, tangy bread made with lemon",5/5/24,2
+192,Apple Cinnamon Bread,A sweet bread made with apples and cinnamon,5/5/24,2
+193,Carrot Bread,"A sweet, spiced bread made with carrots",5/5/24,2
+194,Avocado Toast,This is savory toast topped with mashed avocado,5/5/24,2
+195,Grilled Cheese,"This is soothing, gooey sandwich made with melted cheese",5/5/24,2
+196,BLT,"A sandwich made with bacon, lettuce, and tomato",5/5/24,2
+197,Club Sandwich,"A multi-layer sandwich with turkey, bacon, and vegetables",5/5/24,2
+198,Reuben,"A sandwich made with corned beef, Swiss cheese, and sauerkraut",5/5/24,2
+199,Chicken Sandwich,A sandwich made with a grilled or fried chicken breast,5/5/24,2
+200,Turkey Sandwich,A sandwich made with sliced turkey and various toppings,5/5/24,2
+201,Ham Sandwich,A sandwich made with sliced ham,5/5/24,2
+202,Veggie Sandwich,A sandwich made with various vegetables,5/5/24,2
+203,Egg Salad Sandwich,A sandwich filled with creamy egg salad,5/5/24,2
+204,Tuna Salad Sandwich,A sandwich filled with tuna salad,5/5/24,2
+205,Chicken Salad Sandwich,This is sandwich filled with chicken salad,5/5/24,2
+206,Meatball Sub,A sandwich filled with meatballs and marinara sauce,5/5/24,2
+207,Philly Cheesesteak,A sandwich made with thinly sliced beef and melted cheese,5/5/24,2
+208,Pulled Pork Sandwich,A sandwich made with slow-cooked pulled pork,5/5/24,2
+209,Gyro,"A Greek sandwich made with lamb, beef, or chicken",5/5/24,2
+210,Falafel,This is sandwich made with deep-fried chickpea patties,5/5/24,2
+211,Croque Monsieur,A French ham and cheese sandwich,5/5/24,2
+212,Cuban Sandwich,"This is sandwich made with Cuban bread, pork, and cheese",5/5/24,2
+213,Grilled Panini,A pressed Italian sandwich with various fillings,5/5/24,2
+214,Muffuletta,A sandwich made with Italian meats and olives,5/5/24,2
+215,Sub Sandwich,A long sandwich filled with various meats and toppings,5/5/24,2
+216,Banh Mi,A Vietnamese sandwich made with pork and pickled vegetables,5/5/24,2
+217,Hot Dog,"A sausage in a bun, often topped with mustard or ketchup",5/5/24,2
+218,Cheeseburger,A beef patty sandwich with cheese,5/5/24,2
+219,Hamburger,A beef patty sandwich,5/5/24,2
+220,Chicken Burger,A sandwich made with a grilled chicken patty,5/5/24,2
+221,Veggie Burger,A plant-based patty sandwich,5/5/24,2
+222,Fish Sandwich,A sandwich made with a fried or grilled fish fillet,5/5/24,2
+223,Slider,A small sandwich typically served as an appetizer,5/5/24,2
+224,Open-Faced Sandwich,A sandwich served without the top slice of bread,5/5/24,2
+225,Crostini,A small toasted bread with toppings,5/5/24,2
+226,Bruschetta,Toasted bread topped with tomatoes and basil,5/5/24,2
+227,Garlic Bread,A bread toasted with garlic butter,5/5/24,2
+228,Breadsticks,"Long, thin breadsticks often served with dipping sauces",5/5/24,2
+229,Scones,A baked good often served with jam and cream,5/5/24,2
+230,Doughnuts,"A fried, sweet pastry with a hole in the center",5/5/24,2
+231,Cinnamon Buns,"A sweet, sticky bun made with cinnamon and sugar",5/5/24,2
+232,Churros,A fried dough pastry covered in sugar,5/5/24,2
+233,Pancakes,"A fluffy, round breakfast dish made from batter",5/5/24,2
+234,Waffles,"A crispy, grid-patterned breakfast dish",5/5/24,2
+235,French Toast,Egg-soaked bread fried in butter,5/5/24,2
+236,Crepes,Thin pancakes typically filled with sweet or savory fillings,5/5/24,2
+237,Omelette,A savory dish made from beaten eggs and fillings,5/5/24,2
+238,Quiche,"A savory pie filled with eggs, cheese, and vegetables",5/5/24,2
+239,Frittata,An Italian-style omelette with various fillings,5/5/24,2
+240,Scrambled Eggs,Eggs cooked in butter or oil until soft and fluffy,5/5/24,2
+241,Boiled Eggs,Eggs cooked in their shells in boiling water,5/5/24,2
+242,Poached Eggs,Eggs cooked without their shell in simmering water,5/5/24,2
+243,Sunny-Side Up Eggs,Eggs fried with the yolk facing up,5/5/24,2
+244,Deviled Eggs,"Boiled eggs filled with a creamy, seasoned yolk mixture",5/5/24,2
+245,Egg Benedict,Poached eggs served on an English muffin with hollandaise sauce,5/5/24,2
+246,Egg Salad,A creamy salad made with boiled eggs and mayonnaise,5/5/24,2
+247,Avocado Salad,"A salad made with avocado, often with other vegetables",5/5/24,2
+248,Caesar Salad,"A salad made with romaine lettuce, croutons, and Caesar dressing",5/5/24,2
+249,Greek Salad,"A salad made with tomatoes, cucumbers, feta, and olives",5/5/24,2
+250,Cobb Salad,"A salad with chopped vegetables, bacon, and egg",5/5/24,2
+251,Spinach Artichoke,A creamy and savory dip made from spinach and artichokes,5/5/24,2
+252,Taco,A Mexican dish made with a folded tortilla filled with meat and toppings,5/5/24,2
+253,Mushroom,"A savory, earthy flavor from mushrooms",5/5/24,2
+254,Tarragon,"An herb with a delicate, slightly licorice-like flavor",5/5/24,2
+255,Chive,"A mild, onion-like flavor from chives",5/5/24,2
+256,Basil,"A fragrant herb with a sweet, slightly peppery flavor",5/5/24,2
+257,Oregano,"A pungent herb with a savory, slightly bitter flavor",5/5/24,2
+258,Thyme,"A fragrant herb with earthy, lemony notes",5/5/24,2
+259,Rosemary,A fragrant herb with pine-like and citrusy notes,5/5/24,2
+260,Parsley,"A mild, fresh herb often used for garnish",5/5/24,2
+261,Sage,"A savory, slightly peppery herb often used in stuffing",5/5/24,2
+262,Bay Leaf,A fragrant leaf used in soups and stews for its aromatic flavor,5/5/24,2
+263,Cilantro,"This is bright, citrusy herb often used in Mexican cuisine",5/5/24,2
+264,Mint Chocolate,A combination of mint flavor and rich chocolate,5/5/24,2
+265,Raisin,"A sweet, dried fruit from grapes",5/5/24,2
+266,Date,"A sweet, sticky fruit often used in desserts",5/5/24,2
+267,Cranberry Sauce,A tart and sweet sauce made from cranberries,5/5/24,2
+268,Strawberry Shortcake,"A dessert with layers of sponge cake, strawberries, and whipped cream",5/5/24,2
+269,Chili Chocolate,"This is piquant, sugary combination of chili and chocolate",5/5/24,2
+270,Peppermint,"A cool, refreshing flavor from peppermint leaves",5/5/24,2
+271,Spicy Mango,A sweet and spicy tropical flavor from mango and chili,5/5/24,2
+272,Green Apple,"A tart, crisp flavor from green apples",5/5/24,2
+273,Sour Cherry,A tart cherry flavor,5/5/24,2
+274,Tart Lime,A zesty and tangy lime flavor,5/5/24,2
+275,Tropical Punch,A mix of various tropical fruit flavors,5/5/24,2
+276,Pineapple Coconut,A tropical flavor combination of pineapple and coconut,5/5/24,2
+277,Fruit Cocktail,A sweet mix of various fruit flavors,5/5/24,2
+278,Fruit Punch,This is blend of citrusy and sugary fruit flavors,5/5/24,2
+279,Strawberry Banana,This is sugary and fruity combination of strawberries and bananas,5/5/24,2
+280,Peach Mango,A sweet combination of peaches and mangoes,5/5/24,2
+281,Watermelon Mint,This is invigorating mix of watermelon and mint,5/5/24,2
+282,Tropical Paradise,"A mix of tropical fruit flavors like mango, pineapple, and coconut",5/5/24,2
+283,Blackcurrant,A tangy and slightly sweet berry flavor,5/5/24,2
+284,Pomegranate,"A tart, sweet fruit flavor",5/5/24,2
+285,Rhubarb Strawberry,A tart and sweet combination of rhubarb and strawberries,5/5/24,2
+286,Coconut Lime,A tropical flavor pairing coconut and lime,5/5/24,2
+287,Lemon Blueberry,A tangy and sweet combination of lemon and blueberry,5/5/24,2
+288,Apple Cinnamon,"A warm, spiced flavor of apples and cinnamon",5/5/24,2
+289,Plum Cherry,A sweet-tart combination of plums and cherries,5/5/24,2
+290,Peach Cobbler,A warm dessert with peaches and biscuit topping,5/5/24,2
+291,Banoffee,"This is dessert flavor combining banana, toffee, and cream",5/5/24,2
+292,Peach Melba,"A classic dessert flavor with peaches, raspberry, and cream",5/5/24,2
+293,Chocolate Mint,"A cool, refreshing mint flavor combined with rich chocolate",5/5/24,2
+294,Raspberry Lime,A tart and tangy combination of raspberry and lime,5/5/24,2
+295,Caramel Apple,A sweet flavor of caramel paired with tart apples,5/5/24,2
+296,Blueberry Lemon,A zesty and fruity combination of blueberries and lemon,5/5/24,2
+297,Honey Lavender,"A floral, sweet blend of honey and lavender",5/5/24,2
+298,Maple Bacon,A sweet and savory flavor combination of maple syrup and crispy bacon,5/5/24,2
+299,Maple Pecan,"A rich, nutty flavor of pecans paired with sweet maple",5/5/24,2
+300,Butterscotch Pudding,"A creamy, caramel-like dessert flavor",5/5/24,2
+301,Malted Milk,"A creamy, malty flavor often used in milkshakes",5/5/24,2
+302,Nutella,"A sweet, chocolate-hazelnut spread flavor",5/5/24,2
+303,Chocolate Fudge,"A rich, indulgent chocolate flavor often used in desserts",5/5/24,2
+304,Coconut Caramel,A tropical and sweet flavor combining coconut and caramel,5/5/24,2
+305,Bourbon Caramel,"This is luxurious, smoky caramel flavor with a hint of bourbon",5/5/24,2
+306,Mocha,A blend of coffee and chocolate flavors,5/5/24,2
+307,Tiramisu Coffee,A rich coffee flavor with hints of chocolate and mascarpone,5/5/24,2
+308,Irish Coffee,"A blend of coffee, whiskey, and cream",5/5/24,2
+309,Caramel Mocha,"A sweet, chocolatey coffee flavor with caramel undertones",5/5/24,2
+310,Espresso,"A strong, rich coffee flavor",5/5/24,2
+311,Affogato,A dessert flavor with espresso poured over vanilla ice cream,5/5/24,2
+312,Chai Tea,"A spiced tea blend with cinnamon, cardamom, and ginger",5/5/24,2
+313,Matcha,"This is green tea powder with a mildly grassy, earthy flavor",5/5/24,2
+314,Cinnamon Roll Latte,A coffee latte flavored with cinnamon roll spices,5/5/24,2
+315,Honeycomb,"A sweet, crispy candy made from honey and sugar",5/5/24,2
+316,Cotton Candy,"A sugary, sweet, airy treat often found at fairs",5/5/24,2
+317,Bubblegum,"This is sugary, fruity flavor associated with bubblegum",5/5/24,2
+318,Marshmallow,"This is sugary, fluffy flavor often used in desserts",5/5/24,2
+319,Lemon Meringue,A sweet and tangy lemon flavor topped with meringue,5/5/24,2
+320,Churro Cinnamon,A cinnamon-sugar flavor inspired by churros,5/5/24,2
+321,Sugar Cookie,"A sweet, buttery flavor often used in cookies",5/5/24,2
+322,Red Velvet,"This is luxurious, moist cake flavor with a hint of cocoa",5/5/24,2
+323,Peanut Butter Chocolate,"A creamy, nutty flavor combined with chocolate",5/5/24,2
+324,Coconut Almond,"This is earthy, tropical flavor combination of coconut and almonds",5/5/24,2
+325,Carrot Ginger,"This is spiced, earthy flavor combining carrots and ginger",5/5/24,2
+326,Chocolate Raspberry,A rich chocolate flavor paired with tart raspberry,5/5/24,2
+327,Chocolate Hazelnut,A smooth chocolate flavor with nutty hazelnuts,5/5/24,2
+328,Strawberry Cheesecake,"A creamy, tangy dessert flavor with strawberries",5/5/24,2
+329,Peach Apricot,A sweet combination of peaches and apricots,5/5/24,2
+330,Apricot Jam,A sweet and tangy preserve made with apricots,5/5/24,2
+331,Maple Bacon Donut,A savory and sweet flavor combining maple syrup and bacon,5/5/24,2
+332,Carrot Cake Cheesecake,A rich dessert combining carrot cake and cheesecake,5/5/24,2
+333,Peach Iced Tea,A refreshing tea with a sweet peach flavor,5/5/24,2
+334,Lemon Iced Tea,This is zesty iced tea with a hint of lemon,5/5/24,2
+335,Raspberry Lemonade,This is sharp and sugary flavor of raspberry and lemon,5/5/24,2
+336,Iced Mocha,A cold coffee drink flavored with chocolate,5/5/24,2
+337,Lemon Drop,"This is sugary, citrusy candy flavor",5/5/24,2
+338,Pineapple Upside-Down Cake,"A sweet, caramelized pineapple cake",5/5/24,2
+339,Tart Lemon,"A tangy, tart lemon flavor",5/5/24,2
+340,Raisin Bran,"A sweet, fibrous breakfast cereal flavor",5/5/24,2
+341,Choco-Lime,A tangy lime flavor mixed with rich chocolate,5/5/24,2
+342,Cranberry Orange,"This is zesty, sugary combination of cranberries and oranges",5/5/24,2
+343,Cinnamon Toast,"A warm, buttery cinnamon-sugar flavor often on toast",5/5/24,2
+344,Maraschino Cherry,"A sweet cherry flavor, often used in desserts and drinks",5/5/24,2
+345,Hot Chocolate,"A sweet, warm drink flavor made with milk and chocolate",5/5/24,2
+346,Gingerbread Spice,"A warm, spiced flavor with ginger, cinnamon, and molasses",5/5/24,2
+347,Toffee Almond,A rich toffee flavor mixed with crunchy almonds,5/5/24,2
+348,Butter Pecan,This is velvety butter flavor paired with roasted pecans,5/5/24,2
+349,Pistachio Cream,"A smooth, nutty flavor from pistachios",5/5/24,2
+350,Raspberry Truffle,"A decadent, fruity chocolate truffle flavor",5/5/24,2
+351,Dark Chocolate Mint,"A rich, slightly bitter chocolate flavor paired with refreshing mint",5/5/24,2
+352,Chocolate Cherry,A rich chocolate flavor combined with tart cherries,5/5/24,2
+353,Strawberry Cheesecake Ice Cream,This is velvety dessert with strawberries and cheesecake flavor,5/5/24,2
+354,Peanut Butter Cup,A combination of creamy peanut butter and chocolate,5/5/24,2
+355,Almond Joy,"A sweet, nutty flavor combined with chocolate and coconut",5/5/24,2
+356,Cinnamon Apple,A sweet and spiced combination of apples and cinnamon,5/5/24,2
+357,Smores,"This is campfire dessert flavor of chocolate, marshmallow, and graham cracker",5/5/24,2
+358,Hot Buttered Rum,"A warm, spiced drink flavor with butter and rum",5/5/24,2
+359,Caramel Latte,A coffee drink with caramel syrup and milk,5/5/24,2
+360,Lemon Meringue Cupcake,"A light, tangy lemon cupcake topped with meringue",5/5/24,2
+361,Maple Cinnamon,A sweet and spicy combination of maple and cinnamon,5/5/24,2
+362,Coconut Lime Pie,"This is tropical, sugary and sharp pie flavor with coconut and lime",5/5/24,2
+363,Cranberry Citrus,This is zesty blend of cranberries and citrus fruits,5/5/24,2
+364,Cinnamon Raisin,"A spiced, sweet bread flavor with cinnamon and raisins",5/5/24,2
+365,Chocolate Hazelnut Cream,"A creamy, rich chocolate flavor combined with hazelnuts",5/5/24,2
+366,Pineapple Coconut Cake,A tropical cake flavor with pineapple and coconut,5/5/24,2
+367,Peach Melba Tart,"A fruit tart with peaches, raspberries, and cream",5/5/24,2
+368,Key Lime Pie,"A tangy, creamy dessert with key lime flavor",5/5/24,2
+369,Black Forest,A rich chocolate and cherry flavor combination,5/5/24,2
+370,Pecan Praline,A sweet and nutty praline flavor with pecans,5/5/24,2
+371,Chocolate Mint Chip,A combination of mint and chocolate chip ice cream flavor,5/5/24,2
+372,Raspberry Swirl,This is sugary and zesty raspberry flavor swirled through a velvety base,5/5/24,2
+373,Pumpkin Spice,"A spiced, autumn flavor combining cinnamon, nutmeg, and pumpkin",5/5/24,2
+374,Ginger Peach,A spicy-sweet flavor of ginger combined with peaches,5/5/24,2
+375,Chili Lime,This is zesty and piquant flavor with chili and lime,5/5/24,2
+376,Maple Walnut,A sweet and nutty flavor of maple syrup paired with walnuts,5/5/24,2
+377,Lemon Raspberry,"A tart, sweet combination of lemon and raspberry",5/5/24,2
+378,Coconut White Chocolate,"This is tropical, velvety flavor of coconut paired with white chocolate",5/5/24,2
+379,Toasted Marshmallow,"A warm, toasted marshmallow flavor",5/5/24,2
+380,Cinnamon Sugar,A sweet and spicy combination of cinnamon and sugar,5/5/24,2
+381,Honey Saffron,"A rich, floral flavor with hints of honey and saffron",5/5/24,2
+382,Sage Honey,"This is savory, mildly herbal flavor combined with honey",5/5/24,2
+383,Balsamic Strawberry,A tangy-sweet combination of balsamic vinegar and strawberries,5/5/24,2
+384,Fig Balsamic,"A rich, sweet flavor of figs combined with tangy balsamic",5/5/24,2
+385,Lemon Honey,"This is zesty, sugary combination of lemon and honey",5/5/24,2
+386,Tropical Guava,"A tropical, sweet flavor from guava",5/5/24,2
+387,Orange Blossom,"A floral, citrusy flavor from orange blossoms",5/5/24,2
+388,Rose Water,"A fragrant, floral flavor from distilled rose petals",5/5/24,2
+389,Elderflower,"This is sugary, floral flavor from elderflower blossoms",5/5/24,2
+390,Blackberry Sage,A fruity-sweet flavor of blackberries paired with sage,5/5/24,2
+391,Lemon Thyme,A fragrant citrus flavor with a touch of thyme,5/5/24,2
+392,Lavender Honey,This is delicate floral flavor combined with sugary honey,5/5/24,2
+393,Vanilla Bean,"A rich, creamy flavor from real vanilla beans",5/5/24,2
+394,Coconut Almond Joy,"A tropical, nutty flavor with coconut and almonds",5/5/24,2
+395,Coconut Cream Pie,This is velvety dessert flavor with coconut filling,5/5/24,2
+396,Plum Caramel,A rich caramel flavor combined with sweet plums,5/5/24,2
+397,Tropical Peach,"A tropical, juicy peach flavor with a hint of other fruits",5/5/24,2
+398,Orange Caramel,A sweet and tangy flavor combination of orange and caramel,5/5/24,2
+399,Cinnamon Plum,"A spiced, sweet combination of plums and cinnamon",5/5/24,2
+400,Chocolate Espresso,"A deep, rich flavor of coffee and chocolate",5/5/24,2
+401,Lemon Blueberry Muffin,A muffin flavor with lemon and blueberry,5/5/24,2
+402,Coconut Almond Joy,"A sweet, tropical flavor with coconut and almonds",5/5/24,2
+403,Cranberry Lemon Bread,"A tangy, sweet bread flavor with cranberries and lemon",5/5/24,2
+404,Choco Banana,A sweet chocolate and banana combination,5/5/24,2
+405,Orange Mint,"A zesty, fresh combination of orange and mint",5/5/24,2
+406,Peach Mint,A sweet and fresh combination of peach and mint,5/5/24,2
+407,Cherry Limeade,This is zesty-sugary combination of cherries and lime,5/5/24,2
+408,Raspberry Lush,A sweet and tart raspberry flavor,5/5/24,2
+409,Strawberry Rose,"This is delicate, floral strawberry flavor",5/5/24,2
+410,Watermelon Strawberry,This is sugary and invigorating watermelon and strawberry combo,5/5/24,2
+411,Ginger Lime,"This is piquant, zesty combination of ginger and lime",5/5/24,2
+412,Tropical Mango Tango,"A lively, fruity blend of tropical mango",5/5/24,2
+413,Chocolate Orange,A sweet and tangy chocolate flavor paired with orange,5/5/24,2
+414,Lemon Raspberry Swirl,"A tangy, fruity swirl of lemon and raspberry",5/5/24,2
+415,Cranberry Pineapple,This is sugary and sharp combination of cranberry and pineapple,5/5/24,2
+416,Apple Ginger,This is sugary and piquant combination of apples and ginger,5/5/24,2
+417,Minty Chocolate Chip,A refreshing mint flavor combined with chocolate chips,5/5/24,2
+418,Tart Cherry Lime,A tart combination of cherries and lime,5/5/24,2
+419,Peach Tangerine,"A fruity, sweet combination of peach and tangerine",5/5/24,2
+420,Berry Lemonade,A sweet and tart berry-filled lemonade,5/5/24,2
+421,Lemon Blueberry,"A tangy, sweet combination of lemon and blueberries",5/5/24,2
+422,Coconut Apricot,A tropical flavor combination of coconut and apricot,5/5/24,2
+423,Coconut Lime Sorbet,"A tart, creamy tropical sorbet flavor",5/5/24,2
+424,Tropical Lemon,A zesty and fresh tropical lemon flavor,5/5/24,2
+425,Caramel Banana,A rich caramel flavor combined with banana,5/5/24,2
+426,Spicy Plum,A sweet and spicy flavor from plums,5/5/24,2
+427,Peach Passion,A tropical peach flavor with a passion fruit twist,5/5/24,2
+428,Mint Chip,A fresh minty flavor with chocolate chips,5/5/24,2
+429,Mango Pineapple,A tropical combination of mango and pineapple,5/5/24,2
+430,Gingerbread Latte,"A warm, spiced coffee drink flavor",5/5/24,2
+431,Peach Mango Coconut,"A tropical flavor blend of peach, mango, and coconut",5/5/24,2
+432,Coconut Macadamia,This is sugary tropical flavor with coconut and macadamia nuts,5/5/24,2
+433,Chocolate Malt,"A creamy, malty chocolate flavor",5/5/24,2
+434,Blackberry Orange,A tangy sweet combo of blackberry and orange,5/5/24,2
+435,Tangerine Vanilla,A sweet citrus flavor blended with vanilla,5/5/24,2
+436,Apple Crisp,"A warm, spiced apple dessert flavor",5/5/24,2
+437,Caramel Apple Pie,A rich apple pie flavor with caramel,5/5/24,2
+438,Strawberry Peach,"A sweet, fruity combination of strawberries and peaches",5/5/24,2
+439,Raspberry Chocolate,This is sharp raspberry flavor mixed with luxurious chocolate,5/5/24,2
+440,Sour Cherry Tart,"A sour, tangy cherry flavor often used in tarts",5/5/24,2
+441,Honey Lemon,"This is sugary, zesty combination of honey and lemon",5/5/24,2
+442,Maple Walnut Cake,"A sweet, nutty cake flavor with maple syrup and walnuts",5/5/24,2
+443,Apple Cinnamon Roll,"A warm, sweet cinnamon roll flavor with apples",5/5/24,2
+444,Chocolate Raspberry Truffle,A rich chocolate flavor mixed with tart raspberry,5/5/24,2
+445,Mint Lemonade,A refreshing lemonade flavor with mint,5/5/24,2
+446,Lemon Mint,A refreshing combination of lemon and mint,5/5/24,2
+447,Honey Cinnamon,A sweet and spicy combination of honey and cinnamon,5/5/24,2
+448,Blackberry Ginger,"A tart, spicy blackberry flavor",5/5/24,2
+449,Caramel Pretzel,A sweet and salty combination of caramel and pretzels,5/5/24,2
+450,Peach Pear,A sweet combination of peaches and pears,5/5/24,2
+451,Tangerine Passion,"This is sugary, fruity combination of tangerine and passionfruit",5/5/24,2
+452,Cherry Almond,This is sugary and earthy combination of cherries and almonds,5/5/24,2
+453,Lemon Poppy,A tangy lemon flavor with a slight crunch of poppy seeds,5/5/24,2
+454,Coconut Lime Cheesecake,"A creamy, tangy cheesecake flavor with coconut and lime",5/5/24,2
+455,Ginger Citrus,A spicy and zesty combination of ginger and citrus fruits,5/5/24,2
+456,Orange Spice,"This is soothing, piquant flavor with a citrusy orange base",5/5/24,2
+457,Tropical Banana,"A sweet, tropical banana flavor",5/5/24,2
+458,Raspberry Peach,A sweet combination of raspberries and peaches,5/5/24,2
+459,Blackberry Lemonade,A tart and refreshing blackberry lemonade,5/5/24,2
+460,Peach Cinnamon,"A warm, spiced peach flavor with cinnamon",5/5/24,2
+461,Orange Blossom Honey,"A floral, sweet combination of honey and orange blossom",5/5/24,2
+462,Caramel Pecan,"This is sugary, earthy caramel flavor with roasted pecans",5/5/24,2
+463,Strawberry Kiwi,A tangy-sweet combination of strawberries and kiwis,5/5/24,2
+464,Coconut Mango,A tropical flavor combination of coconut and mango,5/5/24,2
+465,Ginger Lemonade,A refreshing lemonade flavor with a spicy ginger kick,5/5/24,2
+466,Lemon Meringue Pie,This is zesty lemon pie flavor with a fluffy meringue topping,5/5/24,2
+467,Coconut Chocolate Chip,A sweet coconut flavor with chocolate chips,5/5/24,2
+468,Apple Maple,A warm apple flavor with sweet maple syrup,5/5/24,2
+469,Cinnamon Hazelnut,"A warm, spiced flavor of cinnamon and hazelnuts",5/5/24,2
+470,Tropical Coconut,"A creamy, tropical coconut flavor",5/5/24,2
+471,Orange Creme,"A smooth, creamy orange flavor",5/5/24,2
+472,Ginger Peach Tea,A spiced tea blend of ginger and peach,5/5/24,2
+473,Berry Mint,This is invigorating combination of berries and mint,5/5/24,2
+474,Lemon Raspberry Swirl,A tangy lemon flavor with a swirl of raspberry,5/5/24,2
+475,Peach Lemonade,"A sweet, tangy lemonade flavor with peaches",5/5/24,2
+476,Passionfruit Orange,This is tropical flavor of passionfruit and orange,5/5/24,2
+477,Apple Pie,"A warm, spiced apple dessert flavor",5/5/24,2
+478,Tart Lime Pie,"This is zesty, velvety lime pie flavor",5/5/24,2
+479,Coconut Cream,"A smooth, creamy coconut flavor",5/5/24,2
+480,Chocolate Cherry Swirl,A rich chocolate flavor swirled with tart cherry,5/5/24,2
+481,Maple Cinnamon Swirl,"A sweet, spicy flavor combination of maple syrup and cinnamon",5/5/24,2
+482,Peach Apricot Jam,A sweet and tangy jam flavor made from peaches and apricots,5/5/24,2
+483,Coconut Pineapple,A tropical flavor combining coconut and pineapple,5/5/24,2
+484,Lemon Pistachio,This is zesty lemon flavor with a earthy pistachio base,5/5/24,2
+485,Strawberry Kiwi Twist,A sweet and tart combination of strawberries and kiwi,5/5/24,2
+486,Cherry Pomegranate,This is sugary and sharp combination of cherries and pomegranates,5/5/24,2
+487,Mango Lime,"A zesty, tropical combination of mango and lime",5/5/24,2
+488,Almond Joyful,"A nutty, chocolatey flavor with almonds and coconut",5/5/24,2
+489,Chocolate Mint Swirl,A cool mint flavor with a rich chocolate swirl,5/5/24,2
+490,Cinnamon Peach,A warm peach flavor with a hint of cinnamon,5/5/24,2
+491,Tropical Medley,This is invigorating mix of tropical fruits,5/5/24,2
+492,Citrus Splash,"This is fresh, zesty combination of various citrus fruits",5/5/24,2
+493,Apple Cranberry,A tart and sweet combination of apples and cranberries,5/5/24,2
+494,Raspberry Peach Swirl,"A sweet, fruity combination of raspberries and peaches",5/5/24,2
+495,Banana Cinnamon,This is sugary and spiced combination of bananas and cinnamon,5/5/24,2
+496,Tropical Punch,"This is sugary, fruity mix of tropical fruit flavors",5/5/24,2
+497,Caramel Fudge,A rich caramel flavor mixed with fudgy sweetness,5/5/24,2
+498,Mango Coconut,This is sugary tropical flavor blend of mango and coconut,5/5/24,2
+499,Lime Sorbet,"A tangy, refreshing lime-flavored sorbet",5/5/24,2
+500,Strawberry Peach Pie,A sweet dessert flavor with strawberries and peaches,5/5/24,2
